@@ -1,0 +1,31 @@
+Title: Full moon party
+Slug: full-moon-party
+Date: 2017-03-13
+Parent: Meanderings
+Parent_URL: meanderings
+
+*Names have been changed to protect the guilty.*
+
+For the past two months, Mary Rose and I have been sharing a lovely apartment in Born, a trendy neighbourhood in old town Barcelona.  We have the keys to the rooftop terrace, a nice plus.  The terrace is quite deserted, seems that nobody ever goes up there.
+
+The moon was nearing full, and with the bitter cold of winter receding into distant memory, it seemed appropriate to throw a little party on the roof.  At the last minute we sent out a couple of invitations and I went down to the wine cellar to buy as much wine as I could carry.
+
+People start arriving in droves, they've brought their friends, suddenly it's a lot more crowded than I imagined.  We're sitting around the table, grazing on raw vegetables and a steady stream of pizzas from the oven, and the conversation moves to Tinder.  Sure I've got a profile, although to be honest I simply don't have the time.  Swipe, swipe, swipe, then the inevitable match, trying to strike up a conversation which probably goes nowhere.  Frankly, I'd rather go to a bar, even if I don't get laid at least I'll get drunk.  The Italian girl is confused, surely I'd delete the app now that I'm living with Mary Rose?  No darling, we have an open relationship.  Eyebrows are raised.  People think it sounds cool in theory but doesn't work in practice.  Except for the fact that we've been doing it for two years and still going strong, so there's that.
+
+Volumes of wine have been flowing, we're moving past tipsy, seems like the right moment to push the table and chairs aside, turn the lights down, turn the volume up and start shaking our hips.  Andrew is from Kali in Columbia, he dances salsa like a pro, twirling the girls around and around, what a smooth player.  I take a hit of weed from Lee's pipe, stong stuff, I have to resist the temptation to have another puff.
+
+Mary Rose flops on my lap and we make out for a while.  I'm struck by the realization that we're the only couple in attendance, everyone else is young and single.  Better for it, couples are so boring anyway.  I run through the list of nationalities represented, there's Spanish, Mexican, Columbian, Argentinian, Italian, Danish and myself from South Africa.  I do love living in a global city.
+
+The moon is out, beaming like a headlight, we decamp upstairs.  It feels like a school excursion, stomping up the narrow stairwell, giggling hysterically, Mary Rose is shushing everyone, the neighbours, the neighbours, meanwhile I've got the portable speaker in my hand blaring reggaeton.  We dance around in the open air, gleeful, swigging beer, rejoicing in the moment.  Mary Rose and Pamela start making out.  We're arm in arm, singing, bouncing, I'm worried someone's going to drop a bottle in the street.  When we eventually run out of booze we all head back downstairs again.
+
+Mary Rose is telling Lee how we intend to turn our apartment into a temple of sex.  I'm admiring the way Natasha dances, she moves like the curling flames of an open fire.  Things are starting to really heat up on the dance floor, bodies are grinding, hips are thrusting, thighs are pushing against crotches, sweat is streaming.  I'm dancing with my back against a girl and her hand slides down inside my pants and grasps my erection, I reach behind me and discover that another's hand is already inside her.
+
+Mary Rose is running around shouting "Too much clothes!  Too much clothes!"  Andrew and I smoke a bit more weed, he is totally blown away, he came expecting a quiet drink and a chat, the party is now edging on an all-out orgy.  Oh what the hell, might as well take it to the next level.  I put on Right Said Fred's "I'm Too Sexy" and rope the guys into a striptease, it's funny and silly, the girls are on the sofa laughing.  I'm feeling pretty good taking off my shirt, all those laps in the pool are starting to pay off.  The song ends, so I put on The Coasters "Down in Mexico" and we settle down as the girls start a very sensual striptease of their own.  Shirts are unbuttoned, bras are revealed, straps are falling off shoulders, nipples are popping out.
+
+Next thing I know, people are getting naked everywhere.  Fingers, tongues, kissing, touching.  Lee walks past, his dick is hard, and man it is huge!  He's carrying a box of condoms.  I head for the bathroom and discover Andrew and Pamela fucking in the entrance hall.  He's pulled down her jeans and lifted her top, and he's pumping her from behind.  Her eyes are closed and she's moaning.  I enjoy the show for a bit.  Lee is in the bed having a threesome with Natasha and Mary Rose.  Everywhere I look there is sex, I'm on overload.  Pamela wanders past, she's lost her pants, so I push her against the wall and start kissing her.  She's got a tight grip on my dick, my hands are running all over her fantastic body.  She goes down on me, I go down on her.
+
+Things reach a climax, the groans of pleasure subside, the grey light of morning filters through the shades.  Lee leaves with a kiss and a wink and a "Until the next full moon!"  The stragglers fall asleep, in the bed, on the sofa, on the floor.
+
+The next morning I awake to find myself alone in bed with Natasha, I've no idea where Mary Rose is.  So yeah, I start touching her, her skin is so soft, my fingers follow the natural path down to her crotch and then inside.  She's moaning softly, this could be the best way in the world to wake up.  She has my penis in her hand now, we're rubbing each other.  I want to have sex with her, but she turns me down, tells me that she can't have sex with her best friend's man.  But she gives me one hell of a blow job, so who's complaining?
+
+I take a shower, and then stroll around the apartment in my bathrobe.  Scenes of debauchery abound, there are more bottles and cans than I can count, random pieces of clothing, I'm struck by the number of discarded condom wrappers, glad to see people are practising safe sex.  I put on my sunglasses to shade my bloodshot eyes from the bright glare of the future, tighten the belt of my robe and step out into the sunlight.  Nice day actually.  Until the next full moon indeed.

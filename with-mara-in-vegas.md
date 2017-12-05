@@ -1,0 +1,55 @@
+Title: With Mara in Vegas
+Slug: with-mara-in-vegas
+Date: 2017-02-22
+Parent: Themepark Earth
+Parent_URL: themepark-earth
+
+[Previously.](/wings-money-and-each-other/)
+
+Most people never really go anywhere.  They grow up somewhere, they leave home, get a job, buy a house, raise a family, the usual.  Maybe they change cities, maybe they go on the occasional holiday, take selfies in front of the monuments, visit the museums, lie on the beach, read a lousy novel.  They live their lives and they only see a small fraction of the world.
+
+There exists a small minority of people who hit the road when they're young and never look back.  Mara is like that.  She left Germany when she finished high school, backpacked around Thailand and Vietnam, dropped into Bali, cruised around Australia, volunteered in Kenya, lived in an intentional community in Brazil, lived in an art commune in New York, hitch-hiked across the States to Burning Man, then hooked up with some dude who took her to San Francisco.  That's where I met her.  She is doubly courageous, because not only does she travel, but she's an artist as well.  She's a singer-songwriter, she dances, she paints, the list goes on.
+
+The world wouldn't function if everyone were flittering around the globe, painting paintings and prancing on their toes and singing their hearts out.  I mean someone has to harvest the crops and tend the animals and string the power-lines and lay the pipes and put out fires and all that.  We are the selfish few who live the dream, who go where we want and do what we want.  I am acutely aware of my privilege.
+
+Her art doesn't pay all that well, so to make ends meet she tends bar.  She has a fake ID and always gets paid in cash.  She'd been crashing around San Francisco, sleeping on couches of people she met randomly, using up goodwill until it was time to move on.  She has the charisma to carry it, I guess it helps that she's young and pretty with stars in her eyes.  Considering her limited means it is outstanding how far she has come.
+
+I feel a bit lame opposite her, I'm no artist, at best I can write moderately well, that's about it.  I wouldn't be travelling at all if I didn't have the magic box in one pocket and the AMEX in the other.  And to be honest, I doubt she'd be interested in me otherwise.  I'd like to get in her pants, but I'm probably not the first guy to try, and I don't think she'll give in that easily.  It would be positively perverse to try and barter endless travel in exchange for endless sex.
+
+After landing in Las Vegas, we cruise the strip in a limo.  Neon fakery panders our base instincts.  We wander into a casino and play roulette.  I loose $500 in 5 minutes.  She thinks it's boring, I suppose that to get the thrill you have to gamble money you earned.  I thought casinos were supposed to be classy, but this lot are poorly dressed, shorts and t-shirts people, really?
+
+She suggests we go looking for something more authentic, so we drive around downtown in search of street art.  We're pleasantly surprised to discover a series of murals, enormous, edgy, clearly the work of professionals with ladders and excessive amounts of free time.  She tells me that she always feels good in a city embellished with colour, a telling reflection of the cultural vibrancy, hence her love for San Francisco.
+
+As a globetrotting painter, she can't very well carry a stack of canvases around in her backpack, so instead she paints on walls.  It has become a matter of personal pride to leave her mark wherever she goes.  All of a sudden, as if her very life depends upon it, she has an overwhelming urge to paint.  Next thing I know we're driving around in search of a store to buy supplies.
+
+She picks up as many cans as she can carry, rollers, brushes, overalls, goggles, I'm starting to wonder how out of hand this is going to get.  At the cash register she flutters those starry eyes of hers and I pull out the credit card.  We're back on the road, looking for a suitable spot.  There's a derelict lot, with street lamps glowing dimly, a few parked cars, a rusting chain-link fence and a crumbling brick wall.  Perfect.
+
+Her eyes are closed, she's breathing deeply, summoning her creative energies.  She dons her overalls and goggles and starts opening cans.  I stand and watch as she starts laying strokes upon the wall.  She works with a deliberate calm, evidently she has done this many times before.  She walks the line between figurative and abstract.  What emerges is a confusing tangle of shapes, a riot of colour, a joyful mess, somehow primitive, ethnic, tribal.  Clearly, she is quite insane.
+
+She steps back for a contemplative pause, and suggests that I join in.  I haven't painted since grade school.  It's a trick, she explains, to let yourself go, open a connection to your hidden mind, return to the origin of consiousness.  After moderate persuasion, I abandon my better judgement and put on my overalls and goggles.  I open a random tin and hurl the contents upon the wall.  I open another and do the same.  She laughs with glee.  I grab a brush and start tracing triangles, squares, circles.  We're both going at it, lost in the moment.
+
+I'm just starting to enjoy myself when a police cruiser rolls into the lot, a defeaning burst of sirens accompanies their flashing lights.  We've been caught red-handed, in flagrant disregard for the law, hemmed in with nowhere to run.  The cops get out slowly, all swagger and arrogance, they survey the scene.  I'm feeling pretty embarressed, but Mara looks casual.  They check our IDs, mine real, hers fake.  There is talk of defacement of public property, large fines, a world of problems.  These fascists, I wonder what it's like to born without a soul?  Eventually we agree to efface our creation by painting the wall white.  We break out the rollers and get to work while the cops watch.  How humiliating.
+
+A squawk on the radio, all units, it sounds serious, the officers respond.  A flare of annoyance, time to leave, but first a stern warning, the wall had better be clean when they return in half an hour or there'll be repercussions.  It's a bluff, of course, they blaze off sirens wailing, churning up a cloud of dust.
+
+Mara and I stand side by side in the dim glow of the street lamps, staring at the wall.  What was I doing here with this girl in this abandoned lot in Las Vegas?  We had shared a splendid moment, until those damned cops had stomped upon our fun, but it was over now.  She tells me that somehow she likes it better this way, the white roller strokes adding an extra touch of absurdity.  I notice that the moon is out, close to full, promise to come.  We ditch the supplies in a dumpster, and head off in search of a hotel.
+
+We check in at the Pink Flamingo, she just liked the sign.  They have a pool on the roof so we buy swimsuits and get wet.  As we sip cocktails with little umbrellas she slips a little further into the water.  She tells me that she could get used to this life.  
+
+We talk about bands.  I haven't heard of any of the acts she listens to.  She's very passionate and insistent, like it's the only thing that matters in all the world.  I wish I could feel that way about something.  I've been sleepwalking through life until now.  She promises to let me listen to some of her favourite groups when we get back to the room.  But the evening is nice and the water is warm and we get drunk slowly under a canopy of stars.
+
+Her father is a sky-diving instructor and her mother is a yoga teacher.  I couldn't think of two professions further apart.  Drug dealer and a DEA agent?  Christian minister and a Satantic cult leader?  Professional hunter and a vegan telechef?  She giggles and spills her drink into the pool which oozes out over the surface like an oil slick.  Turns out her dad hunts and her mom's a vegan.  They got divorced pretty soon after she was born.  Hard to believe they got married at all.  At least she was conceived in love, which is more than I can say.
+
+I ask if she'll take me sky-diving, but she's jumped out of a plane once too many times.  She'd rather teach me yoga.  I'd like to see her downward-facing dog.  I let my eyes wander across the seams of her lycra and the lines of her freakish tattoos.  I gently move in a little closer, but she maintains the distance in her eyes.  How I wish she'd give me an invitation, allow me into her intimacy, let me kiss those full lips, twirl my tongue around her piercing.  Man, I like this girl.
+
+She finds travelling tough, perpetually looking for a place to stay, always struggling for cash.  She tries not to use people too much.  She wants to make it as an artist, to be able to earn a living from her art.  Thing is, it's not enough just to have passion, drive, motivation, you need originality, inspiration.  That's what she's searching for, her global quest, to find her style.  Of course you also need a stroke of luck to get noticed.  Sure, she'd like to see her art in galleries, to headline at festivals and jump into the air and bodysurf upon a crowd of fans.  Sometimes she misses home, but the thought of going back to that little town in Bavaria, where everyone is square and serious, no, no, no, it's simply out of the question.  Her parents don't really get the art thing anyway.  I'm struck by how well she speaks English, with only the slightest accent, it's quite beguiling.
+
+She asks me what I believe in, and she's dismayed when I reply that I don't believe in anything at all.  It would be nice to believe in an afterlife, or reincarnation, or nirvana, or UFOs and little grey men, or a universal energy that connects us all, but I'm just too rational for all that.  It's just a chain reaction, going right back to the very beginning, the big bang, spinning electrons and galaxies and stars and planets and moons.
+
+She tells me that I'm missing something essential.  She has this idea to go check out an art commune in New Mexico.  She knows a guy there who cultivates peyote, a psychoactive cactus.  I've never tried psychedelics before, I'm a bit afraid of the demons lurking in the dark recesses of my mind.  She says it's a ride worth taking, maybe it'll open me up to new possibilities.
+
+It's been a long day, it's getting late, and she's feeling tired, so we go back to the room.  She doesn't even bother getting into the bed, she just flops down on top of the covers still wearing her swimsuit and falls asleep.  I stare at her body for a while, feeling a welling desire to do unspeakable things.  After all, no one knows we're here.  
+
+I heed my better judgement, and instead take a shower and jerk off.  Afterwards, as I lie down on the bed next to her I wonder if I'll ever get with her at all.  Perhaps our flames aren't burning quite so brightly together.  Sleep comes swiftly.
+
+[The story continues...](/in-the-desert-of-new-mexico/)

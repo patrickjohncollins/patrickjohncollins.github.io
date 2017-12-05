@@ -1,0 +1,32 @@
+Title: Sailing the waters of Greece
+Slug: sailing-in-greece
+Date: 2014-12-02
+Parent: Meanderings
+Parent_URL: meanderings
+
+Sometime around June, I had a minor mid-life crisis.  I (foolishly) broke up with Nathalie, quit my job, sold most of my possessions, returned the keys to my landlord, put my life in a suitcase, and got a plane to Istanbul.  The plan was to try my hand as an itinerant sailor for a while.  My bank balance was looking alright, I figured I could hold out for a year if I lived frugally.
+
+I got screwed by a taxi driver who drove me all over town before I finally got out in frustration, 40 euros poorer and 2 kilometres further away from my hotel.  I got screwed by my mobile phone company, 40 euros for 4 megabytes of data, roaming is a bitch when you're outside the EU.  Ouch.
+
+They don't believe in street signs in Istanbul, but I found an old boy who spoke a bit of German who helped me find my way.  I arrived on the first day of Ramadan, and the muezzin woke me with his wailing throughout the torrid night.  Now, his singing was quite beautiful in way, but I was not in the fucking mood at 3 in the morning.
+
+I had some pretty bad kebabs in Istanbul, but the mosques are astounding.  From afar they don't seem that big, but after walking for a hour, as the domed edifice slowly grows in stature, you realize, OK, they're pretty huge.  The men were taking off their shoes and washing their feet before going inside, I was curious but a bit afraid.  I got to the Great Bazar, but it was closed.  On every corner I saw women and girls dressed in black burqas, sleeping in the streets, begging for change, a pitiful sight.  The Turks just stepped over them.  Refugees from Syria.  No men.  Dead or fighting? 
+
+I met up with my sailing teacher and some other students and we sailed out into the Aegean.  We set off to the Mount Atos, the sacred mountain, an extinct volcano rising from the sea.  I saw it two days before we finally reached it.  Mountains are big, sailboats are slow, water is wet.  Nothing quite like clipping along with all the sails up, rolling over each passing wave, watching dolphins jump from the water along the bow.  No woman has been allowed on the Mount Atos since the 11th century.  The monks all take a vow of celibacy you see, wouldn't want to distract them from their holy business.  The monasteries are pretty impressive, majestic structures clinging to the slopes, built by hand over centuries.
+
+We cruised around the Sporades for a while.  Dropped anchor in quiet little bays, where the clear turquoise water laps up on pretty little beaches.  Swam around with the fish, cracked open some ice-cold beers on the deck as the sun dipped down over the horizon.  Not a single light to spoil the glory of the stars.  Some of the islands we visited were completely uninhabited.
+
+Sailing seems difficult at first, but you get the hang of it pretty quick.  Marinas are the worst bit.  Try parallel parking a 10-ton €250,000 boat, with the wind blowing you the wrong way, other boat owners shouting contradictory advice in several different languages, well... you get the picture.
+
+We got to Athens and it was time to disembark.  Now for the tricky bit: I had to worm my way onto another boat.  I hit up the marinas, but they were all fenced off, no riff-raff like me getting in there.  I tried my hand online and found an Italian boat looking for crew heading up past Croatia and onwards to Venice.  Sounds like a good deal, I've never been to Venice.  Except they were only leaving Greece in a month's time.
+
+I kicked around Athens for a while, a huge city where absolutely nothing happens.  Maybe it was the heat?  The Greek alphabet is quite confounding.  I've been in foreign countries where I can't speak the language before, but not being able to read the signs adds a level of difficulty.  At the hostel I met a hot Basque girl who wore those naughty shorties, you know those shorts so short they don't actually cover your arse?  "Come to Crete" she said, and so I did.  Didn't lead anywhere alas.  I hunkered down in the south of the island, worked on my tan, ate a lot of incredibly tasty and incredibly cheap Greek food, caroused with other travellers, got drunk and stoned a lot, went hiking in the mountains and nearly died of thirst, and otherwise made the best of it.  I did not see a single road sign in Crete that was not perforated with bullet holes.  The good ol' boys wear camouflage trousers and drive around in pick-up trucks.  A bit hick really.
+
+I thought about swinging by Jerusalem, but Esther told me not to come as there was a war on.  Plus there was a war going on in Syria.  And in the Crimea.  Are they still fighting in Libya?  Seemed like war was all around me, meanwhile I was drinking cocktails on the nudist beach.  That's hardly fair.
+
+I went to Kefalonia in the Ionian sea and sailed with the Italians to Corfu.  The captain was arrogant, grumpy, demanding, and otherwise generally disagreeable.  Galley slave wasn't exactly the role I was looking for.  I got off and went to Samos, back in the Aegean.  I hooked up with Valerie, a rasta Belgian girl who had her own little boat, a cute wooden number, bit of a squeeze, but decorated with style.  She's a live-aboard, a rare enough breed in these waters.  Up until then I'd mostly met rich show-offs who thought sailing was primarily an expression of wealth.  The bigger the boat, the smaller the penis?  Some of these boats were so huge they had helipads on the deck.  I'd seen pictures, but the reality was quite jaw-dropping, in a sickening kind of way.  But Valerie was nothing like that: friendly, salty, she offered me a drink of Ouzo as I stepped on board.  Ouzo is a stiff Greek drink that'll put hairs on your chest.
+
+We hit the sea, put up the sails and cruised from island to island.  We swam in river gorges with waterfalls.  We rented scooters to explore the interior.  We discovered the old ruins of forgotten civilisations.  We shot the breeze, drank beers, slept and did it all again the next day.  Ah, bliss.  I would have stayed, but she already had friends coming, so with a heavy heart I had to disembark after a couple of weeks.  
+
+By this point the heat was killing me.  Average temperatures between 35-40°C every day for two months.  Who would go to Greece in high summer anyway?  I decided to [hitchhike to Berlin](/hitchhiking-across-europe/) to chill out.
+
