@@ -1,6 +1,6 @@
 ---
-Title: Mobility
-Date: 2014-11-06
+title: Mobility
+date: 2014-11-06
 Parent: Musings
 Parent_URL: musings
 ---
