@@ -1,6 +1,6 @@
-Title: And so it steps forth into the unknown
-slug: about
-SAVE_AS: index.html
+---
+title: And so it steps forth into the unknown
+---
 
 <img src="/images/patrick-writing-small.jpg">
 
