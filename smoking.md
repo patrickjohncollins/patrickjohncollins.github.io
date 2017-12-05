@@ -1,7 +1,7 @@
-Title: Smoking
-Date: 2015-10-01
-Parent: Musings
-Parent_URL: musings
+---
+title: Smoking
+date: 2015-10-01
+---
 
 I smoked cigarettes regularly from 2005 until early 2015.  My consumtion was variable, but I'd average about 10 a day.  There were some breaks: I quit for a year in Dublin, and I quit again for a while in Avignon, and then again for six months in Montpellier. I'd estimate that during my time as a smoker, I smoked upwards of 30,000 cigarettes.
 

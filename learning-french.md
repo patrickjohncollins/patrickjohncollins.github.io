@@ -1,8 +1,7 @@
-Title: Learning French
-Slug: learning-french
-Date: 2014-10-27
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Learning French
+date: 2014-10-27
+---
 
 I have always thought the French language sounds sexy.  The [guttural R](https://en.wikipedia.org/wiki/Guttural_R) sends shivers down my spine.  Especially when pronounced by a lovely young thing with curls in her hair and pouting lips.
 

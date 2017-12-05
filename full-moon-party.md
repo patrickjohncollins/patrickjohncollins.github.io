@@ -1,8 +1,7 @@
-Title: Full moon party
-Slug: full-moon-party
-Date: 2017-03-13
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Full moon party
+date: 2017-03-13
+---
 
 *Names have been changed to protect the guilty.*
 

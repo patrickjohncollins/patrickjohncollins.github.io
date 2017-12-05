@@ -1,4 +1,6 @@
-Title: Programming
+---
+title: Programming
+---
 
 Since I finished high school, I've been writing computer programs for a living, and I have become rather good at it.  Mostly, I've created closed-source in-house line-of-business systems for large corporations.  If you are interested, you may wish to consult my [curriculum vitae](/curriculum-vitae/).
 

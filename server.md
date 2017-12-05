@@ -1,6 +1,7 @@
-Title: The little server than could
-Slug: server
-Date: 2015-12-29
+---
+title: The little server than could
+date: 2015-12-29
+---
 
 ### In the beginning
 

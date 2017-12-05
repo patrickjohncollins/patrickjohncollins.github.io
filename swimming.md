@@ -1,8 +1,7 @@
-Title: Swimming
-Date: 2015-02-25
-Slug: swimming
-Parent: Musings
-Parent_URL: musings
+---
+title: Swimming
+date: 2015-02-25
+---
 
 At age six, I made it into the school swim team, although I'm not quite sure how, because I didn't really know how to swim.  My mother decided that it would be best for me to go for private swimming lessons.  There I learnt crawl, breaststroke, backstroke and butterfly, as well as diving from the edge of the pool.  Over the years I swam in competitions because it was the thing to do, although to be frank I'm not a competitive person and I could have done without those experiences.
 

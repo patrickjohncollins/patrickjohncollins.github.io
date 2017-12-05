@@ -1,8 +1,7 @@
-Title: With Mara in Vegas
-Slug: with-mara-in-vegas
-Date: 2017-02-22
-Parent: Themepark Earth
-Parent_URL: themepark-earth
+---
+title: With Mara in Vegas
+date: 2017-02-22
+---
 
 [Previously.](/wings-money-and-each-other/)
 

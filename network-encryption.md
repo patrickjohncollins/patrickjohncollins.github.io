@@ -1,6 +1,7 @@
-Title: Secure those sockets
-Slug: network-encryption
-Date: 30-12-2015
+---
+title: Secure those sockets
+date: 2015-12-30
+---
 
 Is it a good idea to encrypt my data when stored or sent over the wire?  Would it be a good idea for encryption to be turned on by default?  Do I really have secrets to hide?  I need to think some more about this.
 

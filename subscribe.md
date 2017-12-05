@@ -1,5 +1,6 @@
-Title: I find your ideas interesting and I would like to subscribe to your newsletter
-slug: subscribe
+---
+title: I find your ideas interesting and I would like to subscribe to your newsletter
+---
 
 Pop your email address in the box below and you'll receive updates about new stories in your inbox every couple of days.
 

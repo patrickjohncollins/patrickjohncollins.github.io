@@ -1,0 +1,14 @@
+---
+title: Two girls
+date: 2009-10-31
+---
+
+Through eyes hazy I gazed at her while she spoke softly to me, taking care not to awake the family. Heavy sleep was pulling at me, and my eyelids fell closed. She urged me to remain awake so that she might tell me a secret of great importance, a sacred secret between friends so close we could have been sisters. Through languid lips I solemnly made the promise to guard her words safe, to hold them close to my heart. Despite my fatigue, I felt a flutter of excitement at the confidence she was placing in me. I have always adored the intimacy of sharing secrets, the rare opportunity to be granted access to the deepest inner sanctum of another's soul.
+
+She told me that since birth she had slept in the same bed as her mother, her father and her elder brother. The children had grown up side by side, in the arms of their loving parents who desired to keep their children near. She was accustomed to her parents making love, she had listened to and observed their throes of pleasure since the youngest age. Her mother had taught her how to pleasure herself, the gentle caresses needed to stimulate her young body. As she explained how despite her most ardent efforts she could never surpass the sublime ecstasy of the touch of her mother's knowing hands my eyes flew wide.
+
+All sleep had been washed away by the shock of her words, for I had never even touched my own body, shamed by the relentless sexual demonization that had been indoctrinated into me by my own entirely different family. Had I not lied to them just to be there, at that moment, in bed beside her, her warm body but an arm's stretch away between the light linen sheets, listening to true stories that I could lest imagine. Clumsily I expressed these feelings, she laughed with surprise, could it be true that I had never felt an orgasm? I was embarrassed, although with hindsight I shouldn't have been, for we were both so young really, I don't quite remember how old, perhaps early adolescent, nevertheless despite the passage of intervening time I still recall so clearly every indelible detail of that night.
+
+She encouraged me to try, to slide my fingers down my chest and abdomen, to stroke gently the soft inner flesh of my thighs and then feel them rising upwards to the place of intense pleasure, yet despite my curiosity I felt nought, I could have cried in frustration. She smiled and slid closer, and I felt her hands upon me, gliding across my skin, down they went and I felt a moan escape my lips. A sharp intake of breath and she had entered me, her eyes wide with wonder at my shaking body.
+
+Later, after the intensity had subsided, I asked her if she had finished telling me her secret.

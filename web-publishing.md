@@ -1,6 +1,7 @@
-Title: Web publishing
-Slug: web-publishing
-Date: 31-12-2015
+---
+title: Web publishing
+date: 2015-12-31
+---
 
 Writing HTML by hand is painful, so I write the articles for my web site in [Markdown](http://daringfireball.net/projects/markdown/syntax) format using the Sublime Text app on my MacBook, which is less painful.  It would be nice to have a side-by-side live-preview pane.  Even better would be an app that provides a WYSIWYG editor.  Inline-editing in the browser would be ideal!  I'll carry on dreaming though.
 

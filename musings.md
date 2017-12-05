@@ -1,5 +1,6 @@
-Title: Wherein I ponder the essence of life
-Slug: musings
+---
+title: Wherein I ponder the essence of life
+---
 
 I love being alive, although there have been some dark periods in my life when I considered suicide.  To keep an even mind, I take time to sit down and [breathe deeply](/breathing/), so wonderfully simple and yet so beneficial.  I am a reformed [nicotine addict](/smoking/).  I mostly drink tap water, although I do have weaknesses for tea, coffee, beer and wine.  I try to stick to food that is organically grown and sold raw in local farmer's markets.  I enjoy a good night's sleep on a futon matress and almost never remember my dreams.  I like to be warm, and if possible I prefer to avoid winter altogether, as those very sensible migratory birds do.  I like to be naked, although if I must wear clothes I prefer those made of natural fibres.  I particularly enjoy walking in nature, especially next to water, and also [swimming](/swimming/) in said water.  I like climbing cliffs.  I like practicing yoga, notably hatha yoga.  I like having sex.  I like flirting, in search of previous, but also fun in itself.  I have had several beautiful love affairs.  I think that lingerie is a thing of wonder, but that micro bikinis are even better.  It's a bit unfair that women get to wear all the cool clothes.  I am continually [stimulated and dismayed](/post-orgasmic-reflections/) by pornography.
 

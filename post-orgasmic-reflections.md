@@ -1,8 +1,7 @@
-Title: Post orgasmic reflections
-Date: 2016-07-19
-Slug: post-orgasmic-reflections
-Parent: Musings
-Parent_URL: musings
+---
+title: Post orgasmic reflections
+date: 2016-07-19
+---
 
 I get off, I clean up, I button up and as I come back from the bathroom I see that the porno is still running on the computer.  There's a welling embarrassment, a tinge of disgust, I reach to close the lid, but I take pause, and in the interest of contemporary anthropology I sit back down and watch a bit longer.
 

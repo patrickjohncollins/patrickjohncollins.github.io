@@ -1,8 +1,7 @@
-Title: The foreigner in me
-slug: foreigner-in-me
-Date: 2010-10-03
-Parent: Short stories
-Parent_URL: fiction
+---
+title: The foreigner in me
+date: 2010-10-03
+---
 
 *This story has been translated [into Spanish](/extranjero-en-mi/).*
 

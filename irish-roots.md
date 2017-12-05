@@ -1,8 +1,7 @@
-Title: Irish roots
-Slug: irish-roots
-Date: 2015-01-25
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Irish roots
+date: 2015-01-25
+---
 
 I am half-Irish and a citizen of Ireland, although I was born in London and [grew up in Johannesburg](/youth-in-joburg/).  I have a complicated identity.  In my early twenties I decided to leave my old stomping ground in search of greener pastures.
 

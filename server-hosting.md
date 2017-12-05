@@ -1,6 +1,7 @@
-Title: A home for my server
-Slug: server-hosting
-Date: 2015-12-29
+---
+title: A home for my server
+date: 2015-12-29
+---
 
 [My server](/server/) is hosted by the uninspiringly-named [Best-Hosting](https://best-hosting.cz/en/raspberry-hosting) based in Hradec Kralove, near Prague.  They are one of the few companies offering to host Raspberry PIs at present.  The cost is very low at only €36 / year.  Their service has been very good thus far.  Notably, they had the server live in less than 24 hours.
 

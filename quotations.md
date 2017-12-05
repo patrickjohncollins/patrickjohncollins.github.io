@@ -1,4 +1,6 @@
-Title: Quotations
+---
+title: Quotations
+---
 
 Every day, tell at least one person something you like, admire, or appreciate about them.  - Richard Carlson
 

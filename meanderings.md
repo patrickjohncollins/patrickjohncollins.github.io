@@ -1,6 +1,7 @@
-Title: As I wander across the Earth
-slug: meanderings
-Date: 2017-01-23
+---
+title: As I wander across the Earth
+date: 2017-01-23
+---
 
 When people ask me where I'm from it's rather hard to give a concise answer.  Ethnically speaking, I am Irish on my father's side and Anglo-Dutch with a smattering of German on my mother's side.  However, my family has lived for several generations in Africa, if you really want to know [all the gritty details](/family-saga/).
 

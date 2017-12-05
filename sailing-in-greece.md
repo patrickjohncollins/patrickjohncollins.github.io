@@ -1,8 +1,7 @@
-Title: Sailing the waters of Greece
-Slug: sailing-in-greece
-Date: 2014-12-02
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Sailing the waters of Greece
+date: 2014-12-02
+---
 
 Sometime around June, I had a minor mid-life crisis.  I (foolishly) broke up with Nathalie, quit my job, sold most of my possessions, returned the keys to my landlord, put my life in a suitcase, and got a plane to Istanbul.  The plan was to try my hand as an itinerant sailor for a while.  My bank balance was looking alright, I figured I could hold out for a year if I lived frugally.
 

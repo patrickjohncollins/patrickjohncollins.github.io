@@ -1,8 +1,7 @@
-Title: High in Amsterdam
-Date: 2005-01-01
-Slug: high-in-amsterdam
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: High in Amsterdam
+date: 2005-01-01
+---
 
 I flew from Dublin to Amsterdam on RyanAir, a low cost airline (similar to [Kulula.com](http://www.Kulula.com) in South Africa). And when they say low cost, they mean it – my ticket cost just €1.99 plus airport taxes.  Not bad, I thought.  Unfortunately,
 to save costs, RyanAir doesn't actually fly to Amsterdam

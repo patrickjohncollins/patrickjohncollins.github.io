@@ -1,8 +1,7 @@
-Title: My youth in Joburg
-Slug: youth-in-joburg
-Date: 2015-01-25
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: My youth in Joburg
+date: 2015-01-25
+---
 
 At age four, my family moved to Johannesburg, to the neighbourhood of Witfield, Boksburg.  This is where I grew up, where I completed my primary and secondary education.  We had a house with a garden and a swimming pool, down the road there was a park with a lake, and there was a main street with shops.
 

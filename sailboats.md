@@ -1,7 +1,7 @@
-Title: Sailboats
-Date: 2016-09-01
-Parent: Musings
-Parent_URL: musings
+---
+title: Sailboats
+date: 2016-09-01
+---
 
 ### Introduction
 

@@ -1,3 +1,0 @@
-Title: Walking
-Status: Draft
-

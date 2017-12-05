@@ -1,6 +1,7 @@
-Title: That boy
-Date: 2009-10-31
-Slug: that-boy
+---
+title: That boy
+date: 2009-10-31
+---
 
 I watched him strike the drums, while his feet plied the peddles of the bass and hi-hat. I was perfectly incapable to follow the beat, to anticipate the next drum roll, the rhythm too complex for my novice mind. He was shirtless, young, lost to the love of his beats.
 

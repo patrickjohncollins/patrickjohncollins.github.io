@@ -1,6 +1,7 @@
-Title: Web server
-Slug: web-server
-Date: 30-12-2015
+---
+title: Web server
+date: 2015-12-30
+---
 
 I installed Apache on [my server](/server/) as follows:
 

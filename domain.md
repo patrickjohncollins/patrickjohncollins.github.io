@@ -1,6 +1,6 @@
 ---
 title: My name and some funny numbers
-date: 29-12-2015
+date: 2015-12-29
 ---
 
 ### My name

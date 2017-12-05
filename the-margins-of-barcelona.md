@@ -1,8 +1,7 @@
-Title: In the margins of Barcelona 
-Date: 2016-01-13
-Slug: the-margins-of-barcelona
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: In the margins of Barcelona 
+date: 2016-01-13
+---
 
 As I walked up the Ramblas I stuck to the sidewalk in the shade.  The central isle was thick with tourists, the pale-skinned ones all burnt red, inching forward.  You couldn't hurry in that heat, I was sweating as it was.  The dark-skinned men laid down their storefronts, spread out baseball caps and sunglasses and assorted tourist tat, then just as quickly whipped the cords strung to each corner, hefted the packs upon their shoulders, and briskly walked away.  There were nervous glances cast as they retreated, undoubtedly the police were on their scent.  These outlaw salesmen of contraband apparel.  I looked hard for the victim of their crime, but the sunglasses I'd just bought were a bit dark.  Perhaps the landlords of the buildings.  Or the owners of the Oakley brand.  The possessed and the dispossessed.
 

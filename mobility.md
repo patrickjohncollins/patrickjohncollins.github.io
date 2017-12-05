@@ -1,8 +1,6 @@
 ---
 title: Mobility
 date: 2014-11-06
-Parent: Musings
-Parent_URL: musings
 ---
 
 I grew up in Johannesburg, which is quite a big city, about 10 million inhabitants, and also very spread out, roughly 60km in diameter.  Coming as they did from London, my parents sought to purchase their first house in close proximity to a train station, but the trains turned out to be a bit too dangerous, what with all the muggings and stabbings, and they soon both purchased cars.  As a child I rode my bicycle around the suburb, but to get just about anywhere else we drove.  I spent a lot of time getting motion sickness in the back seat of a car.

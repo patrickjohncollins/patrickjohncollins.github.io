@@ -1,7 +1,7 @@
-Title: Victoria
-Date: 2009-10-31
-Parent: Short stories
-Parent_URL: fiction
+---
+title: Victoria
+date: 2009-10-31
+---
 
 "Oh Gaspard", she said smiling coyly, "how good it is to see you once again."  
 "Votre majesté", he murmured as he kissed the outstreched lace glove.  

@@ -1,8 +1,7 @@
-Title: Hitchhiking across Europe
-Slug: hitchhiking-across-europe
-Date: 2014-12-02
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Hitchhiking across Europe
+date: 2014-12-02
+---
 
 I stood for 4 hours at the side of the road outside Thessaloniki, the road was so hot that my soles started melting.  I got a ride with a Bulgarian fellow who drove like the winged daemons of hell were closing in behind him.  The roads in Bulgaria are not fit for that kind of driving.  Heck, no roads are.  I clenched the handle above the passenger door with a white fist, too afraid to blink, while he rattled on in Bulgarian.  I just kept saying "Da" "Da".  Thankfully his car broke down, smoke and steam pouring from the hood, we managed to flag down another car who took me into Sofia.  The driver was kind enough to give me money, take me into the metro, explain the system, and even buy me a ticket.  Plus he drove like a sane person, which was nice.
 

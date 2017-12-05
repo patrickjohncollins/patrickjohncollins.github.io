@@ -1,7 +1,7 @@
-Title: Floodlands
-Date: 2005-07-15
-Parent: Short stories
-Parent_URL: fiction
+---
+title: Floodlands
+date: 2005-07-15
+---
 
 The mother airship drifted slowly through the air, as insubstantial as a cloud.  They were not far above the endless ocean, searching for shoals of fish.  
 

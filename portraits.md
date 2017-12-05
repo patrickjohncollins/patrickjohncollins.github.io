@@ -1,6 +1,7 @@
-Title: Portraits
-Date: 2015-01-25
-save_as: portraits/index.html
+---
+title: Portraits
+date: 2015-01-25
+---
 
 <img src="/images/portraits/brugges.jpg">
 

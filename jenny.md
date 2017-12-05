@@ -1,5 +1,7 @@
-Title: Jenny
-Date: 2010-10-03
+---
+title: Jenny
+date: 2010-10-03
+---
 
 Jenny was sitting alone on the living room floor paging through a photo album, floating through the happy days of yesteryear.  There were photos of Derek, friends from London, parties, then the wedding.  Derek looked so dashing in a suit, the way it hugged his square shoulders and embraced his thick neck, although it was the only time she'd ever seen him in one.  
 

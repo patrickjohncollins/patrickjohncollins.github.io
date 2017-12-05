@@ -1,6 +1,7 @@
-Title: Server operating system
-Slug: server-operating-system
-Date: 30-12-2015
+---
+title: Server operating system
+date: 30-12-2015
+---
 
 [My server](/server/) is running Raspbian, a derivative of Debian, one of the many flavours of Linux.  I knew nothing about Linux before I began setting up my server.  I had a fair amount of prior experience with Microsoft Windows and Apple OSX.  Is Linux any better than those two?  I worried that it would be complicated to set up.  It was.  Though there are many tutorials online, the diversity of options is staggering.  It seems there is no single right way of doing anything, rather there are hundreds of options and possibilities.  Do I have time to go through all of them?
 

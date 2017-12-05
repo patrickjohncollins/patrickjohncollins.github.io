@@ -1,6 +1,7 @@
-Title: Version control
-Slug: version-control
-Date: 2016-03-15
+---
+title: Version control
+date: 2016-03-15
+---
 
 I wanted to my own source code version control system, so I decided to install [GitLab](https://gitlab.com) on my [server](/server/).
 

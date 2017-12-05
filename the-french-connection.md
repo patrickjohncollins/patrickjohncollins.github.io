@@ -1,8 +1,7 @@
-Title: The French connection
-Slug: the-french-connection
-Date: 2015-01-25
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: The French connection
+date: 2015-01-25
+---
 
 When I decided to leave Johannesburg, I started shopping around for a new place to call home.  I considered Cape Town, a rather nice spot, surrounded as it is by sea, beaches, mountains, vineyards, with a vibrant culture and a laid-back vibe.  But I had an European passport in my hand and a desire to learn a new language, so I started looking at the Mediterranean, finally settling on France.
 

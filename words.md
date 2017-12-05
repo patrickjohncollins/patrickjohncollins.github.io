@@ -1,4 +1,6 @@
+---
 Title: Words
+---
 
 <style type="text/css">
 table { width: 100%;}
