@@ -1,7 +1,7 @@
-Title: To school and back
-Date: 2010-12-23
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: To school and back
+date: 2010-12-23
+---
 
 I was standing, shivering in the morning cold, waiting for the school bus. There was a line of men, blacks, who were not in a queue and were not waiting for the bus. They had come from the squatter camp down the road. Those who preferred euphemisms would refer to the camp as an informal settlement. I'd never been inside the camps, a labyrinth of shacks constructed from corrugated iron, where running water and latrines were inexistent and the smoke from cooking fires would hang low in the evening air. But it was morning now, and the men were there waiting for piece work. A pick-up truck, locally known as a bakkie, would drive past and the men would break ranks and run wildly, waving their arms, hoping for a day's work shoveling or lifting or gardening or any other sort of heavy unskilled labour that would gain them wages to be spent on pap, beer at the local drinking house, locally known as a shebeen and perhaps even a turn at the brothel. There were many men, fifty or more, and I knew that many of them, especially the elderly, wouldn't find employment and would perhaps go hungry that night. I wondered where they came from, for a few years back the camp hadn't existed, there was nothing but vacant mine land, with a seam of gold ore two kilometers down and mountains of sand spread about the surface. The camps had sprung up around the city like mushrooms, every day they spread further, with two new arrivals for every one that left. I supposed they came from the homelands, or perhaps from across the border, I shall never know because I never spoke to them. They made me uneasy, I could see the wretchedness in their eyes, and as I prepared myself for the horrors that lay ahead at school, I knew that things could always be a lot worse.
 
