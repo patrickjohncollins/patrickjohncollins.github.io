@@ -1,4 +1,4 @@
---
+---
 title: The boat
 date: 2007-08-04
 ---
