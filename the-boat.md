@@ -1,7 +1,7 @@
-Title: The boat
-Date: 2007-08-04
-Parent: Short stories
-Parent_URL: fiction
+--
+title: The boat
+date: 2007-08-04
+---
 
 Down the meadow, across the lane, there was once was a boat, an old derelict barge, stranded in the middle of a field, with rusted portholes, foliage growing from every crevice, and inhabited by a family of gypsies.  
 Now, in the way I mention this fact you would think that I was already acquainted with this veritable wreck long ago, however nothing could be further from the truth. I have always been a city man, and although I enjoy riding through the grounds in the immediate vicinity of my manor, the thought of venturing further afield fills me with a rather queasy nausea. No, I much prefer the safe comforts of my books, my pipe, and perhaps a glass or two of whiskey.  

@@ -1,7 +1,7 @@
-Title: The bell
-Date: 2007-05-18
-Parent: Short stories
-Parent_URL: fiction
+---
+title: The bell
+date: 2007-05-18
+---
 
 Once upon a time in Paris, as I was walking down a quiet residential street in Montmartre, I noticed a brass button inlaid in the wall at eye level.  The button was circled by a floral pattern and below there was a small plaque engraved in a most elegant script the following text:
 
