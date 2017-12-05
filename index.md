@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Title: And so it steps forth into the unknown
+slug: about
+SAVE_AS: index.html
 
-You can use the [editor on GitHub](https://github.com/patrickjohncollins/patrickjohncollins.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="/images/patrick-writing-small.jpg">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I'm Patrick Collins.  I was born in London, raised [in Johannesburg](/youth-in-joburg/).  Since then, [I've sailed](/sailing-in-greece/) across [the high seas](/cruising-the-canaries/), hitch-hiked [across Europe](/hitchhiking-across-europe/), taken psychadelics, watched my apartment building [burn](/my-building-is-on-fire/), been [arrested](/being-arrested/), been [swinging](/the-margins-of-barcelona/), learnt to speak French and Spanish, amongst [many other adventures](/meanderings/).  Between all that, I've written [a fistful of short stories](/fiction/), a number of musings about the state of the world and [my place in it](/musings/), and far too many [computer programs](/programming/).  I am currently [writing a novel](http://themeparkearth.org).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickjohncollins/patrickjohncollins.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
