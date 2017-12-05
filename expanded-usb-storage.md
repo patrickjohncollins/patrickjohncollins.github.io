@@ -1,6 +1,7 @@
-Title: My ever-expanding data storage needs
-Date: 30-12-2015
-Slug: expanded-usb-storage
+---
+title: My ever-expanding data storage needs
+date: 2015-12-30
+---
 
 [My server](/server/) only has an 8Gb SD card, which is a bit tight for all the data I'd like to store on it.  I consulted with my [hosting company](/host/) and they suggested a USB memory stick of tiny dimensions.  I ordered a [Sandisk Ultra Fit](https://www.sandisk.com/home/usb-flash/ultra-fit-usb) 128 GB USB memory stick through Amazon, which set me back €50, and had it delivered directly to my host, which they plugged in without issue.
 

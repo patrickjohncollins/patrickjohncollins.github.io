@@ -1,5 +1,6 @@
-Title: Cycling
-Status: Draft
+---
+title: Cycling
+---
 
 When I was about five years old, my mother taught me how to ride a bicycle.  I didn't have any training wheels, so she held the saddle as I wobbled around.  "Don't let go," I plead, as I started to gain forward velocity.  I looked behind me: she had let go.  "I asked you not to let go!" I wailed as I crashed into the ground.  Tough love, that was.
 

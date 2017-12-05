@@ -1,7 +1,7 @@
-Title: Donna 
-Date: 2004-02-01
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Donna 
+date: 2004-02-01
+---
 
 It was with trepidation that I stepped through the entrance of The Brazilian coffee shop, my vague intentions of rekindling an old friendship overshadowed by a nauseating fear of rejection.  According to my information she worked here now.  It had been a long time since I'd seen her last... two years, maybe more.  
 My uncertainty was swept away when suddenly I glimpsed her through the activity of the shop.  It was strange, how plain she looked, wearing a waitresses' uniform with a band in her hair.  

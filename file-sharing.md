@@ -1,5 +1,6 @@
-Title: File-sharing
-Date: 2016-08-18
+---
+title: File-sharing
+---
 
 I decided to install Transmission on my [server](/server/).
 

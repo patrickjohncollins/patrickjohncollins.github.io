@@ -1,5 +1,7 @@
-Title: Autoretrato
-Date: 2015-12-08
+---
+title: Autoretrato
+date: 2015-12-08
+---
 
 Nací en Londres en 1981, un niño sano con todos los dedos. Mis padres me llamaron Patrick John Collins. A la edad de 4 años mi familia se mudó a Johannesburgo, donde crecí, estudié y fui testigo de la caída del apartheid. A los veintipico me mudé a Dublín, a continuación a París, y luego me instalé en el sur de Francia durante más o menos una década. Desde entonces, me he dado a la fuga y llevo mi vida en una maleta, como un gitano pero sin el lujo de una caravana.
 

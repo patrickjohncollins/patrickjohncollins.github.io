@@ -1,7 +1,7 @@
-Title: Being arrested
-Date: 2015-01-03
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Being arrested
+date: 2015-01-03
+---
 
 I spent New Years in Amsterdam, which was freezing cold and overrun with tourists, and as you do, I went to a couple of coffee shops.  I had 2 grams of cannabis left over in my jacket pocket upon my return to Marseille.  For those who don't know, that's the equivalent in monetary terms and buzz-factor of about a 12-pack of beers.  When the train arrived at the station I started walking home, then realized that I had forgotten my slippers under my seat.  I like to have warm feet you see.  So I turned around, walked back, and retrieved my slippers.
 

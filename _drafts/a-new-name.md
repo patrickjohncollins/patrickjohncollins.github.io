@@ -1,4 +1,6 @@
-Title: A new name
+---
+title: A new name
+---
 
 
 a

@@ -1,6 +1,7 @@
-Title: Patrick Collins - Freelance Web Developer
-Slug: curriculum-vitae
-Date: 2017-02-16
+---
+title: Patrick Collins - Freelance Web Developer
+date: 2017-02-16
+---
 
 * Spoken languages: English, French, Spanish
 * Location: Barcelona, Spain

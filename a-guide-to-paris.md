@@ -1,7 +1,7 @@
-Title: A guide to Paris
-Date: 2007-07-10
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: A guide to Paris
+date: 2007-07-10
+---
 
 I thought I'd throw together a few points about Paris, practical stuff about actually living and working in the city for an extended period - this may be handy for anyone planning to come to Paris in the near future.
 

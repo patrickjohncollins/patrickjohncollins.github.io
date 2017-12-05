@@ -1,8 +1,7 @@
-Title: Cruising the Canaries
-Date: 2016-09-07
-Slug: cruising-the-canaries
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: Cruising the Canaries
+date: 2016-09-07
+---
 
 I had the sailboat anchored in a bay in Tenerife, a quiet spot untouched by roads and buildings, nothing but wild cliffs and beaches and clear waters.  I was in the company of two gorgeous young ladies clad in bikinis, casually doing lazy laps around the boat.  We stayed for a night and then a second, because frankly conditions were perfect.
 

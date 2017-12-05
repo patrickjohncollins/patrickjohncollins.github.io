@@ -1,8 +1,7 @@
-Title: El extranjero en mí
-Slug: extranjero-en-mi
-Date: 2017-03-07
-Parent: Short stories
-Parent_URL: fiction
+---
+title: El extranjero en mí
+date: 2017-03-07
+---
 
 *Traducción [de la versión original](/foreigner-in-me/) de Inglés con la participación de Maria Rosa Calzada Hernández.*
 

@@ -1,4 +1,6 @@
-Title: Financing free digital art
+---
+title: Financing free digital art
+---
 
 Copyright
 

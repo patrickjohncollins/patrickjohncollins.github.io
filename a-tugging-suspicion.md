@@ -1,7 +1,7 @@
-Title: A tugging suspicion
-Date: 2015-05-24
-Parent: Short stories
-Parent_URL: fiction
+---
+title: A tugging suspicion
+date: 2015-05-24
+---
 
 *This story has been translated [into Spanish](/una-incipiente-sospecha/).*
 

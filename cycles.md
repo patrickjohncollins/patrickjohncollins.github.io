@@ -1,4 +1,6 @@
-Title: Cycles
+---
+title: Cycles
+---
 
 Cycles occur on different time scales.  Some are so fast that we can't see them.  Some are so slow that we can't see them either.
 

@@ -1,4 +1,7 @@
-Title: Breathing
+---
+title: Breathing
+date: 2017-01-01
+---
 
 ### My first breath
 

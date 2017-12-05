@@ -1,7 +1,7 @@
-Title: Dans la main de son père
-Date: 2009-11-19
-Parent: Short stories
-Parent_URL: fiction
+---
+title: Dans la main de son père
+date: 2009-11-19
+---
 
 *Traduction [de la version originale](/with-her-fathers-hand/) en anglais avec la participation de Hugo.*
 

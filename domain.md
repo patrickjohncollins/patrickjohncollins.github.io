@@ -1,6 +1,7 @@
-Title: My name and some funny numbers
-Date: 29-12-2015
-Slug: domain
+---
+title: My name and some funny numbers
+date: 29-12-2015
+---
 
 ### My name
 

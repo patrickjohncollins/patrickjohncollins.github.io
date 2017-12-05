@@ -1,7 +1,7 @@
-Title: A guide to Avignon
-Date: 2010-01-24
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: A guide to Avignon
+date: 2010-01-24
+---
 
 About two and a half years ago I wrote [a rough guide to Paris](/a-guide-to-paris/) for those considering living there. What follows is more or less the same thing, but for Avignon in Provence.
 

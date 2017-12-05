@@ -1,4 +1,6 @@
-Title: Autoportrait
+---
+title: Autoportrait
+---
 
 Je suis né à Londres en 1981, un garçon, en bonne santé avec tous mes doigts et orteils.  Mes parents m'ont appelé Patrick John Collins.  A l'âge de 4 ans ma famille a déménagée à Johannesburg où j'ai agrandi, fait ma scolarité et attesté à la chute de l'apartheid.  Quelques années plus tard j'ai déménagé à Dublin, ensuite Paris, puis dans le sud de la France où j'ai vécu pendant presque une décinné (???).  Depuis, on the run ???, je voyage avec ma valise, tel un gitane sans caravane.  J'écris des logiciels pour gagner ma vie.  J'ai eu pas mal d'aventures.
 

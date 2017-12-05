@@ -1,8 +1,7 @@
-Title: My family's saga
-Slug: family-saga
-Date: 2017-01-01
-Parent: Meanderings
-Parent_URL: meanderings
+---
+title: My family's saga
+date: 2017-01-01
+---
 
 ## Gabrielle "Elsie" O'Donnell
 

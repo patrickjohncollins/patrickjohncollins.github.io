@@ -1,6 +1,7 @@
-Title: My data, on my server
-Slug: client-server-sync
-Date: 31-12-2015
+---
+title: My data, on my server
+date: 2015-12-31
+---
 
 I wanted to sync my data between my terminals (currently a MacBook Air and an iPhone) and [my server](/server/).  This provides me with a backup copy of my data that I can access from anywhere.
 

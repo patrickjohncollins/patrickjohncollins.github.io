@@ -1,5 +1,6 @@
-Title: Danse à trois
-Slug: danse-a-trois
+---
+title: Danse à trois
+---
 
 I imagine this scene, from a movie, it's morning, a handsom gentleman is in bed, he leans over to the right to kiss a slumbering woman on the head, then he leans over to the left and kisses *another* slumbering women, whereupon he smiles knowingly at the camera.  
 Glamourous as this may seem, there are two inconvieniences that I have discovered when sleeping in the middle.  First, I get terribly hot, warmed as I am by two young beautiful females, and secondly when I need to get out of bed to pee I'm not sure if I should wriggle out the bottom or out the top.  That said, things are much better now that we have a king-size bed, as sleeping like sardines in an ordinary double was rather uncomfortable.  

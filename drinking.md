@@ -1,5 +1,6 @@
-Title: Drinking
-Status: Draft
+---
+title: Drinking
+---
 
 
 
