@@ -5,3 +5,5 @@ defaults:
       path: ""
     values:
       author: "P. J. Collins"
+plugins:
+  - jekyll-feed
