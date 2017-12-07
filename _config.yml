@@ -7,3 +7,5 @@ defaults:
       author: "P. J. Collins"
 plugins:
   - jekyll-feed
+title: "P. J. Collins"
+url: "https://pjcollins.org"
