@@ -1,5 +1,6 @@
 ---
 title: Don't believe all the lies I tell
+date: 2017-12-05
 ---
 
 Once upon a time, I was an English nobleman, bumbling, haughty and lazy, though not so nobel.  Were they ever?  I had a mansion, with stables and a floral garden and a hedge maze, but the lot was ruined in a flood.  To make matters worse, the flood brought with it [a gypsy family and their boat](/the-boat/).  I escaped from the ensuing chaos with a dose of Dickens and a double dose of single malt.
