@@ -1,1 +1,7 @@
 permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "P. J. Collins"
