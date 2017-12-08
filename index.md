@@ -1,6 +1,5 @@
 ---
 title: And so it steps forth into the unknown
-date: 2017-12-07
 ---
 
 <img src="/images/patrick-writing-small.jpg">
