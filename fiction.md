@@ -28,3 +28,5 @@ Once, as a teenager, as I lay awake in bed with my friend, she shared some of [h
 For something completely different, allow me to take you aboard a airship wafting over a world of water, where a mystical priestess makes a [final bid to find dry land](/floodlands/).
 
 Alice once sent me a poem, written in French, to be honest I didn't understand the half of it, so I sat down and [translated it into English](/sensual-dance-with-the-wind/).  It still doesn't make much sense, but I think it's quite pretty.  That's poetry for you.
+
+One morning I woke up from a dream.  I was surprized to realize that I had been dreaming in French.  Fragments of my past, experiences with different women connected and fused into an experience of love, opening hearts and minds, [gradually accepting](/un-rapprochement-tout-en-lenteur/) a new person into an existing relationship.
