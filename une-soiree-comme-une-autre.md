@@ -3,11 +3,11 @@ title: Une soirée comme une autre
 date: 2018-02-02
 ---
 
-Nous ne fêtons rien.  Il n'y a pas d’occasion digne pour nous mettre dans des états paraits.  Cependant, nous nous sommes encore vivants, alors fêtons cela.  La mort nous attends tous, pourquoi donc ne pas aller à sa rencontre en galopant ?
+Nous ne fêtons rien.  Il n'y a pas d’occasion digne pour nous mettre dans des états paraits.  Cependant, nous sommes encore vivants, alors fêtons cela.  La mort nous attends tous, pourquoi donc ne pas aller à sa rencontre en galopant ?
 
 Peut-on encore dire "faire soirée" si la soirée dure trois jours ?  Quatre ?  Il y en a qui vont dans les bars, dans les boîtes de nuits, mais pas nous, non, nous restons enfermés en appart, nous fermons volets et rideaux pour bannir le jour.  Nous sommes hors le temps.  L'interphone sonne encore et encore, les nouveaux arrivants apportent des réserves essentielles pour continuer notre descente aux abîmes.
 
-En tant que carburant, l'alcool est largement insuffisant pour alimenter notre déchirure, nous avons recours aux stimulants plus puissants.  Toutefois bouteilles et canettes s'accumulent sur la table à manger, il faut bien quelque chose pour avaler ses cachetons et effacer le sale goût du MDMA.
+En tant que carburant, l'alcool est largement insuffisant pour alimenter notre déchirure, nous avons recours aux stimulants plus puissants.  Toutefois bouteilles et canettes s'accumulent sur la table à manger.  Il faut bien quelque chose pour avaler ses cachetons et effacer le sale goût du MDMA.
 
 Voici nous réunie, les guerriers de la nuit éternelle, prêt à tout faire.  Nous nous dessinons nos corps, de formes tribales, géométriques, spirales, oiseaux, poésie.  Elle a le mot "sauvage" tatoué sur sa main.  Bienvenue au tribu ma chérie.
 
@@ -27,5 +27,5 @@ Si on ne choisit pas le bien-être, il ne reste plus que le mal-être.  L'auto-d
 
 Du toute manière nous ne fêtons rien.  Je vous aime tous, sincèrement.  Non mais en vrai.
 
-Petit à petit ils s'en vont.  Arrive un moment où je me trouve tout seul.  Je prépare des paras avec ce qui en reste de la drogue.  Jusqu'à la prochaine mes amis.  Que faire maintenant ?  Et si je me mets à écrire ?  Beigbeder, je t'encule.
+Petit à petit ils s'en vont.  Arriver un moment où je me trouve tout seul.  Je prépare des paras avec ce qui en reste de la drogue.  Jusqu'à la prochaine mes amis.  Que faire maintenant ?  Et si je me mets à écrire ?  Beigbeder, je t'encule.
 
