@@ -3,6 +3,8 @@ title: Themepark Earth
 date: 2017-01-12
 ---
 
+<img src="/images/themepark-earth/mosiac-400.jpeg">
+
 I'm holding the small box up for her to see.  It fits in the palm of my hand, although it's surprisingly heavy, which makes it feel expensive.  I explain to her that if I push the button, a car will arrive and drive us to the nearest airport where a private jet will be waiting to fly us anywhere in the world.  She doesn't believe me, so I tell her to go ahead and try.  
 
 She's quite impressed when the shiny Mercedes-Benz rolls up a few minutes later and the driver greets me by name.  She's hesitant, we've just met after all, but there is a look in her eye, a thirst for adventure, something exciting, maybe she thinks I'm cute.  She's supposed to be serving drinks in the bar, but she gets in anyway, we drive off.  There is a mini-bar in the car, I take out a small bottle of champagne, pop the cork and fill two glasses.  We toast, and she smiles broadly.  I crack open some peanuts.
