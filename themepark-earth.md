@@ -27,9 +27,7 @@ I'd stolen my father's American Express card.  There was always the risk his ret
 
 We have wings and we have money, and now we have each other.  Who knew how long it would last?  Best live it to the full.  I've got that tingling feeling, like this is going to be special.  I look at her, she looks at me, I take her hand and smile.  Her eyes are wide with excitement.   We hit the tarmac in Vegas.  This is going to be awesome.
 
-<center>
-## ***
-</center>
+<hr>
 
 Most people never really go anywhere.  They grow up somewhere, they leave home, get a job, buy a house, raise a family, the usual.  Maybe they change cities, maybe they go on the occasional holiday, take selfies in front of the monuments, visit the museums, lie on the beach, read a lousy novel.  They live their lives and they only see a small fraction of the world.
 
@@ -77,9 +75,7 @@ It's been a long day, it's getting late, and she's feeling tired, so we go back 
 
 I heed my better judgement, and instead take a shower and jerk off.  Afterwards, as I lie down on the bed next to her I wonder if I'll ever get with her at all.  Perhaps our flames aren't burning quite so brightly together.  Sleep comes swiftly.
 
-<center>
-## ***
-</center>
+<hr>
 
 I wake up, feeling momentarily disoriented, trying to remember where am I. Morning light is streaming through a gap in the curtains. I'm not on the jet. A hotel room, somewhere, in Vegas, that's right, the Pink Flamingo. There's a girl asleep in the bed next to me, her name is Mara, she's under the covers, her swimsuit is lying on the floor, I suppose she must have taken it off during the night. I wonder if she's wearing anything now, I think about sliding my hand over to check, but decide not to.
 
