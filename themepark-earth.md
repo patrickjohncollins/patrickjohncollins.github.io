@@ -3,7 +3,9 @@ title: Themepark Earth
 date: 2017-01-12
 ---
 
-<img src="/images/themepark-earth/mosiac-400.jpeg">
+<a href="/images/themepark-earth/mosiac.jpeg">
+<img src="/images/themepark-earth/mosiac-800.jpeg">
+</a>
 
 I'm holding the small box up for her to see.  It fits in the palm of my hand, although it's surprisingly heavy, which makes it feel expensive.  I explain to her that if I push the button, a car will arrive and drive us to the nearest airport where a private jet will be waiting to fly us anywhere in the world.  She doesn't believe me, so I tell her to go ahead and try.  
 
