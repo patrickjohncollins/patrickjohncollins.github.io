@@ -41,5 +41,7 @@ https://www.pornhub.com/view_video.php?viewkey=664105214
 https://www.pornhub.com/view_video.php?viewkey=ph5944067fe0ee1
 * I want to see more back-to-back double-headed anal fucking between two girls 
 https://www.pornhub.com/view_video.php?viewkey=ph587fada668db4
-* ANAL ONE GUY FUCKING THREE ASS
+* ANAL ONE GUY FUCKING THREE ASS.  This guy goes back and forward ass fucking three women.  They have their legs up, asses wide open.
 https://www.pornhub.com/view_video.php?viewkey=ph57f5d9292a4a2
+* This video is great!  One guy has sex with five lovely young women.  Some of them look very young indeed.  Outdoors, in park, although strange that no one else is around.
+https://www.pornhub.com/view_video.php?viewkey=ph5b5a3980d34cf
