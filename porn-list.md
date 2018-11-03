@@ -45,3 +45,9 @@ https://www.pornhub.com/view_video.php?viewkey=ph587fada668db4
 https://www.pornhub.com/view_video.php?viewkey=ph57f5d9292a4a2
 * This video is great!  One guy has sex with five lovely young women.  Some of them look very young indeed.  Outdoors, in park, although strange that no one else is around.
 https://www.pornhub.com/view_video.php?viewkey=ph5b5a3980d34cf
+* Sara Kay is very pretty.  I don't like the bit where the other girl blows smoke in her asshole.  But I do like the part where various men cum in the other's ass and the cum runs down her pussy and drips into her mouth and then the two women cum-swap.  Very sexy indeed.
+https://www.pornhub.com/view_video.php?viewkey=ph575e4d915916e
+* Sara Kay again, this time drinking a whole jug of milk, then getting deep throated until she pukes.  This is really trashy, and it turns me on.
+https://www.pornhub.com/view_video.php?viewkey=ph57277ad3a6074
+*  Nasty throat gagging compilation 
+https://www.pornhub.com/view_video.php?viewkey=ph5b5104cca71ec
