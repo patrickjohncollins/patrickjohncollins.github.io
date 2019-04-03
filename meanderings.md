@@ -25,9 +25,11 @@ I decided I wanted to try something a little different, so I [moved to France](/
 
 At one time I had thought that I might settle permanently in France, buy a house and plant some trees.  But I had this feeling that I was missing out on seeing the rest of the world.  I was still turning that globe around in my head, imagining far away places.  So one fine day I decided to sell everything, put my life in a suitcase, and live like a gypsy but without the luxury of a caravan.  I [sailed around the waters of Greece](/sailing-in-greece/), then [hitchhiked across the Balkans to Berlin](/hitchhiking-across-europe/).  I was having a good time, but then I ran out of money, so I hunkered down in Marseille for a bit to do some work.  I managed to [get arrested](/being-arrested/) for carrying two grams of cannibis.  Not a proud moment.  With my bank balance looking a bit healthier, I decided to hit the road again, so I went [to Dublin, London and Paris](/to-dublin-london-and-back/), crashing with friends, using up goodwill.  
 
+
 ### Spain
 
 After that I spent [a summer in Barcelona](/the-margins-of-barcelona/), with the idea of learning Spanish.  Barcelona was rather hot and overrun with drunken tourists, so I decided to head to the Canaries, where I had the rather good luck to borrow a friend's sailboat and go [sailing around the islands](/cruising-the-canaries/) for several months.  The Canaries were very nice, a blessed archipelago with an ideal climate and the friendliest people I have ever had the pleasure of meeting.  There was something missing, I wanted to see more alternative culture, so I went back to Barcelona with the idea of throwing myself into artistic creation and [wild sex](/full-moon-party).
+
 
 ### Looking to the future
 
