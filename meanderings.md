@@ -29,7 +29,7 @@ At one time I had thought that I might settle permanently in France, buy a house
 
 After that I spent [a summer in Barcelona](/the-margins-of-barcelona/), with the idea of learning Spanish.  Barcelona was rather hot and overrun with drunken tourists, so I decided to head to the Canaries, where I had the rather good luck to borrow a friend's sailboat and go [sailing around the islands](/cruising-the-canaries/) for several months.  The Canaries were very nice, a blessed archipelago with an ideal climate and the friendliest people I have ever had the pleasure of meeting.  There was something missing, I wanted to see more alternative culture, so I went back to Barcelona with the idea of throwing myself into artistic creation and [wild sex](/full-moon-party).
 
-### Looking to the future
+### Looking to the future
 
 I would really like to see America, Asia and more of Africa.  I toy with the idea of buying a sailboat and sailing around the world at least once in my life.  
 One of the toughest aspects of leading such a nomadic existence is that the friends I have made all live far away.  For the people I am drawn to are nomads like me, scattered across the Earth, perpetually in movement.
