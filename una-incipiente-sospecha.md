@@ -1,6 +1,6 @@
 ---
-Title: Una incipiente sospecha
-Date: 2015-06-05
+title: Una incipiente sospecha
+date: 2015-06-05
 ---
 
 *Traducción [de la versión original](/a-tugging-suspicion/) de Inglés con la participación de Maria Rosa Calzada Hernández.*

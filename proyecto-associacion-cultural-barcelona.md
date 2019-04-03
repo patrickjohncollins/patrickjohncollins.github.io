@@ -3,6 +3,28 @@ title: Proyecto associacion cultural Barcelona
 date: 2018-08-31
 ---
 
+
+Crear una associacion cultural en Barcelona.
+
+Porque Barcelona?
+
+Porque una associacion?
+
+
+
+Proyecto gastronomico
+
+Dedicar un parte importante del espacio del local a la cocina-comedor
+Equipamiento: Cocina, horno, ollas, sartenes, platos, cubiertos, vasos, etc.
+Ingredientes.  Encontrar ingredientes en Catalunya.  Apoyar la agricultura ecologica.  Apoyar eco aldeas y otras formas associativas / collectivas / cooperativas de cultivar.  Favorizer plantas sin transformacion.
+Ofrecer platos ricos y sanos.
+La cocina 
+La despensa
+Preparar cestas  
+
+
+
+
 Despues de [mi experiencia en invierno / primavera en el puente](/el-puente/), decidi que tal vez no sera mala idea crear una associacion cultural y alquilar un local por Barcelona.  En este documento, voy analysando este hipotesis.
 
 Crear una associacion
