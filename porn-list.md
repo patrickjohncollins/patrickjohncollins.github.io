@@ -53,3 +53,11 @@ https://www.pornhub.com/view_video.php?viewkey=ph57277ad3a6074
 https://www.pornhub.com/view_video.php?viewkey=ph5b5104cca71ec
 * This young woman gets fucked by several men, no condoms, while others cum on her body and face.  Perfect!
 https://www.pornhub.com/view_video.php?viewkey=ph56d6c8f75cc8d
+
+https://www.pornhub.com/pornstar/lia-louise
+
+* Abigaile Johnson cumshotcut - such a sexy girl, getting her whole face covered in cum
+https://www.pornhub.com/view_video.php?viewkey=976437318
+
+* I like these spermastudio vids, so many dicks, so much cum, no protection.  Sexy.
+https://www.pornhub.com/view_video.php?viewkey=ph5ce5d1ddd617c
