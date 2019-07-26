@@ -4,23 +4,23 @@ date: 2019-07-25
 ---
 
 <div style="text-align:center">
-Oiled skin, dark and light  
-A suntan line of tanga  
-Tattoos riding up the side  
-Throbbing beats and movements  
-Slow stroking hands  
-A rocking-horse ride  
-Tossed with the tide  
-Deep into the flesh  
-Sweet delights a chuckle  
-Gentle skating circles  
-Warrior upon warrior  
-Basking in a subtle glow  
-Sliding up and down  
-There's intensity now  
-Fully extended limbs  
-Contact between bodies  
-What woman does  
-Heavy pressure persuades  
-Driving desire deep  
+Oiled skin, dark and light<br/>
+A suntan line of tanga<br/>
+Tattoos riding up the side<br/>
+Throbbing beats and movements<br/>
+Slow stroking hands<br/>
+A rocking-horse ride<br/>
+Tossed with the tide<br/>
+Deep into the flesh<br/>
+Sweet delights a chuckle<br/>
+Gentle skating circles<br/>
+Warrior upon warrior<br/>
+Basking in a subtle glow<br/>
+Sliding up and down<br/>
+There's intensity now<br/>
+Fully extended limbs<br/>
+Contact between bodies<br/>
+What woman does<br/>
+Heavy pressure persuades<br/>
+Driving desire deep<br/>
 </div>
