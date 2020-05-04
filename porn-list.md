@@ -61,3 +61,22 @@ https://www.pornhub.com/view_video.php?viewkey=976437318
 
 * I like these spermastudio vids, so many dicks, so much cum, no protection.  Sexy.
 https://www.pornhub.com/view_video.php?viewkey=ph5ce5d1ddd617c
+
+* This woman is in wooden stocks, I like the division at her waist, men fuck her mouth and her pussy
+https://www.xnxx.com/video-9sc9pa7/ebony_fuck_hole
+
+https://www.xnxx.com/video-lasx737/dsser2
+
+* I think SusiStar is amazingly hot in this video, love her pink top.  All the guys cum inside her and the cum oozes out.
+https://www.pornhub.com/view_video.php?viewkey=ph5962222c48e06
+https://www.xnxx.com/video-sfk6d2f/hot_young_german_slut_bareback_no_condom_gangbang_creampie
+
+
+*  Gangbang anal creampie compilation - need to find out who Extreme Films is, I want to subscribe to this production
+https://www.pornhub.com/view_video.php?viewkey=ph5b70639d981b3
+
+*  Simply the Best Multiple creampie compilation 
+https://www.pornhub.com/view_video.php?viewkey=ph5a2592d84cefa
+
+* Cute young girl rides dick up her ass and then gets fucked some more in the ass.  Love her hole.
+https://www.xnxx.com/video-wm2xlfe/ellilovesu_on_chaturbate_anal_and_creampie
