@@ -19,7 +19,7 @@ The information systems that I have worked on have all been developed using Micr
 
 For much of my work these tools feel too low-level.
 
-HTML <select> element.  Loading the contents by calling a REST API on the server.  Coding that API.  Making a database query.
+HTML `<select>` element.  Loading the contents by calling a REST API on the server.  Coding that API.  Making a database query.
 
 
 A real estate agent wants to list a property for sale.  
