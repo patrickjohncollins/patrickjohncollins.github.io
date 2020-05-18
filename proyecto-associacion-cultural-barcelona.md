@@ -3,6 +3,28 @@ title: Proyecto associacion cultural Barcelona
 date: 2018-08-31
 ---
 
+En proyecto consiste en alquilar un local por Barcelona.
+
+Discreto
+
+En un calle donde pasa poca gente
+
+El aceso el local esta reservado a socios
+
+Los socios pueden traer invitados
+
+
+
+Un local
+club privado reservado para socios
+
+
+normativa
+
+
+
+
+
 
 Crear una associacion cultural en Barcelona.
 
@@ -11,16 +33,40 @@ Porque Barcelona?
 Porque una associacion?
 
 
+Recibidor
+
+Sacar o renovar su carnet de socio
+Dejar su chaqueta, quitarse los zapatos y ponerse zapatillas 
+El recibidor tambien sierve de taquilla en el caso de eventos con entrada
+
+
 
 Proyecto gastronomico
 
 Dedicar un parte importante del espacio del local a la cocina-comedor
 Equipamiento: Cocina, horno, ollas, sartenes, platos, cubiertos, vasos, etc.
-Ingredientes.  Encontrar ingredientes en Catalunya.  Apoyar la agricultura ecologica.  Apoyar eco aldeas y otras formas associativas / collectivas / cooperativas de cultivar.  Favorizer plantas sin transformacion.
+Ingredientes.  Encontrar ingredientes en Catalunya.  Apoyar la agricultura ecologica.  Apoyar eco aldeas y otras formas associativas / collectivas / cooperativas de cultivar.  Favorizer plantas sin transformacion.  Evitar lo animal.
 Ofrecer platos ricos y sanos.
 La cocina 
 La despensa
-Preparar cestas  
+Preparar cestas ecologicas
+
+Lo logico sera de llegar a la hora de cenar y cenar juntos 
+
+Dejar su nombre en la lista de espera y ir a la barra
+La cena tiene precio unico, aue sera 5€, bebida a parte
+
+A medida que los platos estan preparados, los cocineros van llamando los nombres en la lista de espera
+Uno coge su plato, busca un sitio para sentarse y cena
+Despues de cenar se llevanta, trae su plato al grifo, lava su plato y dejar secando para otro torno
+
+
+
+
+Organisacion del la associacion
+
+Junta directiva, ellos mismos socios, eligo por los demas socios cada año
+Los trabajadores, ellos mismos socios, eligo por la junta directiva
 
 
 
