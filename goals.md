@@ -3,13 +3,20 @@ title: Goals
 date: 2020-05-04
 ---
 
-I have hopes and dreams, but sometimes I forget them, and I find myself at a loss as to what I should do next.  I need to set myself goals, and revise them regularly.  In fact, this is my first goal.  I wish I had learnt this life skill earlier, better late than never.
+I want to live my life according to my goals.  I want to revise my goals every week. It all depends on me.
 
-Good health is the most important thing in life.  To this end, I intend to cease smoking tobacco definitively.  I am terrified of developing lung cancer.  I have quit many times, but I keep slipping back into the habit.  Perhaps I should try professional help?  I intend to reduce my consumption of alcohol to less than 140ml per week, and less than 50ml in any day.  I intend to reduce my consumption of coffee to one cup per day.
+I want to be healthy.  This rests on three pillars, which are: breaking addicions, controlling eating and performing physical activity.  I want to quit smoking tobacco, quit drinking coffee and alcohol.  I want to stop eating processed foods, sugar, and wean myself off starch.  I want to swim and practise yoga every day.  In so doing my body will transform into the shape that I have always dreamt of, I will sleep better, have more energy and survive longer.
 
-My body shall be beautiful.  I intend to obtain the physique of Michelangelo's David.  I need to identify and follow a daily exercise routine to develop my upper body.  I want to straighten my teeth.  I want to tattoo my body with a map of the Earth, a map of the stars, and a map of the solar system.
+I want to be happy.
+Meditate every day.
+I want to establish and maintain positive relationships.  To this end, I want to overcome my social anxiety.
+I want to live in a beautiful place with natural surroundings.  I want to hear birdsong in the morning.  I want to be able to go walking in nature from my front door.  I want to be able to swim in the sea, bask in the sun, be warm.  I want to feel comfortable in my home.
+I want to spend my time playing.  
+Play more, buy toys.
+Allow myself frivialities.
+I want to enjoy my life to the fullest extent possible.
 
-My mind shall be beautiful.  I want to be friendly, funny and empathetic.  I intend to overcome my social anxiety.  I intend to meditate every day.  
+My mind shall be beautiful.  I want to be friendly, funny and empathetic.  I intend to overcome my social anxiety.  I intend to meditate every day.  Standup / improv.  Therapy.
 
 I want to establish and maintain a long-term romantic relationship with a woman, and have a child together.
 
@@ -30,3 +37,6 @@ I intend to obtain French and South African nationality.
 
 I intend to cancel Adeslas health insurance and close my Caixa bank account.
 
+I want to straighten my teeth.  I want to tattoo my body with a map of the stars.  I want to clothe my body in beautiful garments.
+
+I want to buy a piece of land and build a house of my own design.

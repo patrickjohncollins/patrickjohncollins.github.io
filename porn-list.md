@@ -22,7 +22,7 @@ title: Porn list
 * I like [porn music video mashups](http://www.pornhub.com/view_video.php?viewkey=616822916)
 * My [favourite PMV with a girl who announces she's 19](http://www.pornhub.com/view_video.php?viewkey=ph571755112d809) before she gets face fucked hard and then has cum all over her face.  I like the way she uses her fingers to open her mouth wide as the guys ejaculate in her mouth.  The music is pumping good, the short cuts are so much sexier than ordinary porn.
 * [PRIMETIME PIPE - TAKING IT TO HER THROAT](http://www.pornhub.com/view_video.php?viewkey=ph5605df644edcc) - this is a throat fucking compilation, liking the girls lying on their backs, gagging, gasping for air, choking on dick 
-* [Petty...Young Throats](http://www.xvideos.com/video13886829/petty...young_throats) A really young girl lying on her back taking dick deep in her throat, pretty rough.  She even throws up several times.
+* [Petty...Young Throats](https://www.xvideos.com/video53173563/petty_youngthroats_best_bits) A really young girl lying on her back taking dick deep in her throat, pretty rough.  She even throws up several times.
 * This [video of a girl being gangbanged](http://www.pornhub.com/view_video.php?viewkey=1191095149) is quite hot.  She's still young.  The guys fuck her without condoms which turns me on.  
 
 * This guy asks 
@@ -58,6 +58,7 @@ https://www.pornhub.com/pornstar/lia-louise
 
 * Abigaile Johnson cumshotcut - such a sexy girl, getting her whole face covered in cum
 https://www.pornhub.com/view_video.php?viewkey=976437318
+https://www.xvideos.com/video27616315/abigail_bukkake
 
 * I like these spermastudio vids, so many dicks, so much cum, no protection.  Sexy.
 https://www.pornhub.com/view_video.php?viewkey=ph5ce5d1ddd617c
@@ -80,3 +81,30 @@ https://www.pornhub.com/view_video.php?viewkey=ph5a2592d84cefa
 
 * Cute young girl rides dick up her ass and then gets fucked some more in the ass.  Love her hole.
 https://www.xnxx.com/video-wm2xlfe/ellilovesu_on_chaturbate_anal_and_creampie
+* I think Ria Sunn is my favourite of all time.  These GGG gangbangs are amazing.
+https://www.pornhub.com/view_video.php?viewkey=ph5d6ed4f8388bb
+* Ria Sunn and Francys Belle Orgía in an Orgy with Double Anal Penetrations, the best double anal ever
+https://www.pornhub.com/view_video.php?viewkey=ph598c6a20c5a0d
+* Best Amateur Teens Orgy - like the spontaneous nature of this orgy, the way they pass the camera around, quite joyful, not so plastic 
+https://www.pornhub.com/view_video.php?viewkey=ph5f2592ebd2516
+
+* Lucianna Karel Perfect Gorgeous Creampie Gangbang - just the best creampie gangbang ever, such a beautiful girl, getting fucked and covered in cum
+https://www.pornhub.com/view_video.php?viewkey=ph595b9baf4f835
+
+* These SinfulXXX videos have really nice lighting and hot models.
+https://www.pornhub.com/view_video.php?viewkey=ph5e296f0110b29
+
+* Wenona Bound in Splits and Spitroasted - tied with legs wide open, fucked from behind and throat fucked
+https://www.pornhub.com/view_video.php?viewkey=ph5b6b3c020614d
+
+* PMV a Freaky Compilation - compilation of rough bondage 
+https://www.pornhub.com/view_video.php?viewkey=ph59e5d1c5e23b3
+
+* ReZero Anime Fuck w Sweet Teen Pussy Purple Bitch & Sia Siberia - two girls back to back anal double headed dildo fucking, love that stuff
+https://www.pornhub.com/view_video.php?viewkey=ph5c8113e12febb
+
+* Best gangbang ever, outdoors, four sexy women, lots of men, no condoms, lots of cum, divine.
+https://www.xvideos.com/video54669455/150_guys_-_good_ones_i_am_glad...
+
+* le llenan la concha de leche entre varios - 7 minutes of guys cumming one after another inside a beautiful sexy woman, I ask for nothing more
+https://www.xvideos.com/video49203927/le_llenan_la_concha_de_leche_entre_varios
