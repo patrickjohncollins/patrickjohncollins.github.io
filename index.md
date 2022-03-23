@@ -4,7 +4,7 @@ title: And so it steps forth into the unknown
 
 <img src="/images/patrick-writing-small.jpg">
 
-Welcome, fellow players!  My name is Patrick.  I was born in London, raised [in Johannesburg](/youth-in-joburg/).  Since then, [I've sailed](/sailing-in-greece/) across [the high seas](/cruising-the-canaries/), hitch-hiked [across Europe](/hitchhiking-across-europe/), taken psychedelics, watched my apartment building [burn](/my-building-is-on-fire/), been [arrested](/being-arrested/), been [swinging](/the-margins-of-barcelona/), learnt to speak French and Spanish, amongst [many other adventures](/meanderings/).  Between all that, I've written [a fistful of short stories](/lies/), a number of musings about the state of the world and [my place in it](/musings/), and far too many [computer programs](/programming/).
+Welcome, fellow players!  My name is Patrick.  I was born in London, raised [in Johannesburg](/youth-in-joburg/).  Since then, [I've sailed](/sailing-in-greece/) across [the high seas](/cruising-the-canaries/), hitch-hiked [across Europe](/hitchhiking-across-europe/), taken psychedelics, watched my apartment building [burn](/my-building-is-on-fire/), been [swinging](/the-margins-of-barcelona/), learnt to speak French and Spanish, amongst [many other adventures](/meanderings/).  Between all that, I've written [a fistful of short stories](/lies/), a number of musings about the state of the world and [my place in it](/musings/), and far too many [computer programs](/programming/).
 
 I’ve been playing this game for 38-odd years now.  That puts me about half-way through, can’t really say if I’m playing it good or bad, but I can at least say that I’ve been playing it for a while, and I’ve got a few things figured out.  
 
