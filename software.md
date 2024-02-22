@@ -1,9 +1,6 @@
 ---
-title: Patrick John Collins - Senior full-stack Microsoft software development consultant
+title: Patrick Collins - Senior full-stack Microsoft software development consultant
 ---
-
-# Patrick John Collins
-## Senior full-stack Microsoft software development consultant
 
 * Experience: 20+ years
 * Nationality: UK & Ireland
@@ -11,42 +8,6 @@ title: Patrick John Collins - Senior full-stack Microsoft software development c
 * Speaks: English, French, Spanish 
 * Company: Collins & Gilbreath LLC, registered in Wisconsin
 * Hourly rate: $100
-
-Questions posed when establishing a relationship with a new client:
-
-* What is the turnover of the organization?  Is the turnover increasing or decreasing?
-* Who are the main competitors of the organization?
-* What is the growth strategy of the organization?
-* Do sub-cultures exist within the organization due to prior mergers and acquisitions?
-* Is there an organization chart?
-* Are invoices paid in a timely manner?
-* How many different programming languages are used within the organization?
-* How many hosting providers are used within the organization?
-* Who is responsable for information security?
-* Is there a coherent information security strategy?
-* Has the organization experienced data breaches?
-* What is the morale of the software developers?
-* What is the turnover of software developers?
-* How long has the code base been in development?  (months/years)
-* How many software developers have modified the code base?
-* How many of these developers are still engaged with the code base?
-* How is the activity of developers coordinated?
-* Are short-cuts and quick-fixes tolerated?
-* Are modules, classes, functions, parameters, and variables appropriately named?
-* Can modules be updated independently?
-* Is there a module versioning strategy?  
-* Is there documentation?  What is the quality of the document?
-* How does an end-user report a defect?
-* How many defects are currently tracked?  Are tracked defects stale?
-* Is the productivity loss due to defects tracked?
-* Is the rate of new defects introduced with each release increasing or decreasing?
-* Is testing automated?  To what degree?
-* How close do tests align to real use?
-* Are tests up to date?
-* What percentage of time is spent refactoring code?  Is there a budget for refactoring?
-* Does the code use the latest version of dependent components?  How far behind is the code?  (months/years)
-* Is the information system hosted in a geo-redundant manner?
-* Are database backups periodically restored?
 
 Services provided:
 
@@ -87,3 +48,39 @@ Client engagements:
 * 2001-2002 Siemens Business Services (Consulting)
 * 2000-2001 Debtpack (Debt collection)
 * 1999-2000 Smarttrack Systems (Consulting)
+
+Questions posed when establishing a relationship with a new client:
+
+* What is the turnover of the organization?  Is the turnover increasing or decreasing?
+* Who are the main competitors of the organization?
+* What is the growth strategy of the organization?
+* Do sub-cultures exist within the organization due to prior mergers and acquisitions?
+* Is there an organization chart?
+* Are invoices paid in a timely manner?
+* How many different programming languages are used within the organization?
+* How many hosting providers are used within the organization?
+* Who is responsable for information security?
+* Is there a coherent information security strategy?
+* Has the organization experienced data breaches?
+* What is the morale of the software developers?
+* What is the turnover of software developers?
+* How long has the code base been in development?  (months/years)
+* How many software developers have modified the code base?
+* How many of these developers are still engaged with the code base?
+* How is the activity of developers coordinated?
+* Are short-cuts and quick-fixes tolerated?
+* Are modules, classes, functions, parameters, and variables appropriately named?
+* Can modules be updated independently?
+* Is there a module versioning strategy?  
+* Is there documentation?  What is the quality of the document?
+* How does an end-user report a defect?
+* How many defects are currently tracked?  Are tracked defects stale?
+* Is the productivity loss due to defects tracked?
+* Is the rate of new defects introduced with each release increasing or decreasing?
+* Is testing automated?  To what degree?
+* How close do tests align to real use?
+* Are tests up to date?
+* What percentage of time is spent refactoring code?  Is there a budget for refactoring?
+* Does the code use the latest version of dependent components?  How far behind is the code?  (months/years)
+* Is the information system hosted in a geo-redundant manner?
+* Are database backups periodically restored?
