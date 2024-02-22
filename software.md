@@ -1,7 +1,10 @@
 ---
-title: Patrick Collins - Senior full-stack Microsoft software development consultant
+title: Senior full-stack Microsoft software development consultant
 ---
 
+<img src="/images/patrick-grey-sweater.jpg">
+
+* Name: Patrick John Collins
 * Experience: 20+ years
 * Nationality: UK & Ireland
 * Residency: USA (green card holder)
@@ -11,10 +14,9 @@ title: Patrick Collins - Senior full-stack Microsoft software development consul
 
 Services provided:
 
-* Broad industry knowledge in banking, financial services, debt collection, stock trading, insurance, health care, human resources, real estate, shipping, public transportation, video conferencing
-* Agile development methodology
-* Requirements analysis
-* Functional specifications / user stories
+* Industry knowledge in banking, financial services, debt collection, stock trading, insurance, health care, human resources, real estate, shipping, public transportation, video conferencing
+* Agile software development methodology
+* Requirements analysis / functional specifications / user stories
 * System architecture diagrams
 * User interface wireframes and mockups
 * Microsoft Azure resource configuration
