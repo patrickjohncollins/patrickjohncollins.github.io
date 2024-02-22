@@ -46,7 +46,7 @@ Client engagements:
 * 2007 SeLoger.com (Real estate portal)
 * 2005-2007 Mercer (Human resources consulting)
 * 2004-2005 Alexander Forbes Risk Services (Corporate insurance)
-* 2002-2004 Investec (Stock trading)
+* 2002-2004 Investec (Banking & Trading)
 * 2001-2002 Siemens Business Services (Consulting)
 * 2000-2001 Debtpack (Debt collection)
 * 1999-2000 Smarttrack Systems (Consulting)
