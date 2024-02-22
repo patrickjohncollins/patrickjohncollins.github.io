@@ -2,7 +2,7 @@
 title: Senior full-stack Microsoft software development consultant
 ---
 
-<img src="/images/patrick-grey-sweater.jpg">
+<img src="/images/patrick-hawaii-shirt.jpg">
 
 * Name: Patrick John Collins
 * Experience: 20+ years
