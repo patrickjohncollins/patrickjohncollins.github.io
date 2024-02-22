@@ -4,15 +4,15 @@ title: And so it steps forth into the unknown
 
 <img src="/images/patrick-writing-small.jpg">
 
-Welcome, fellow players!  My name is Patrick.  I was born in London, raised [in Johannesburg](/youth-in-joburg/).  Since then, [I've sailed](/sailing-in-greece/) across [the high seas](/cruising-the-canaries/), hitch-hiked [across Europe](/hitchhiking-across-europe/), taken psychedelics, watched my apartment building [burn](/my-building-is-on-fire/), been [swinging](/the-margins-of-barcelona/), learnt to speak French and Spanish, amongst [many other adventures](/meanderings/).  Between all that, I've written [a fistful of short stories](/lies/), a number of musings about the state of the world and [my place in it](/musings/), and far too many [computer programs](/programming/).
+Welcome, fellow players!  My name is Patrick.  I was born in London in 1981, and then raised in Johannesburg.  
 
-I’ve been playing this game for 38-odd years now.  That puts me about half-way through, can’t really say if I’m playing it good or bad, but I can at least say that I’ve been playing it for a while, and I’ve got a few things figured out.  
+I’ve been playing this game for 42-odd years now.  That puts me about half-way through, can’t really say if I’m playing it good or bad, but I can at least say that I’ve been playing it for a while, and I’ve got a few things figured out.  
 
 First, you may have noticed that you’ve been designated a body.  It was randomly selected.  None are perfect, but some are better than others.  It may be tall, strong, handsome, all of the above, or none at all.  Luck of the draw I’m afraid.  The body has a limited warranty, and maintenance, though advisable, is ultimately futile.  In other words, you can try stay alive as long as possible, but the body will grow old and die.  
 
 There is no escape from the body, however the limbs can be manipulated to move the body around the playground.  The playground is a rather big sphere, two-thirds of which is covered in water.  You can get into the water, and there are some interesting things to see and do there, but your body is really designed for land.  Some of the land is downright inhospitable, frozen icecaps, arid deserts, sweltering jungles, erupting volcanos.  You can go there of course, but you probably won’t want to stay too long.  Thankfully, there are some very pleasant bits too, green rolling pastures, orchards, vineyards, temperate climates, good times.  
 
-As you move around the playground you will notice that there are other players.  Quite a few actually.  Some 7,5 billion in fact.  That’s more players than there are seconds in a lifespan.  It is therefore quite impossible to meet them all.  
+As you move around the playground you will notice that there are other players.  Quite a few actually.  Some 8 billion in fact.  That’s more players than there are seconds in a lifespan.  It is therefore quite impossible to meet them all.  
 
 By pressing the lungs and flapping the lips and tongue you can produce sounds.  You can use this mechanism to communicate with the other players.  Most of the other players will simply ignore you, but some will tell you things.  Information, nonsense, nonsensical information and informed nonsense, it’s not always clear which is which.  First though, you have to learn the words.  Everywhere you go in the playground you will find players speaking different words.  So many words in fact that you could never learn them all.  Personally, I’ve tried to focus on learning the most commonly used ones.  
 
