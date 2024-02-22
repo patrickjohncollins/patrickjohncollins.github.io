@@ -15,6 +15,8 @@ title: Senior full-stack software development consultant
 Services provided:
 
 * Industry knowledge in banking, financial services, debt collection, stock trading, insurance, health care, human resources, real estate, shipping, public transportation, video conferencing
+* Clear and concise written and verbal communication
+* Team leadership and organizational management
 * Agile software development methodology
 * Requirements analysis / functional specifications / user stories
 * System architecture diagrams
