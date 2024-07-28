@@ -4,7 +4,7 @@ title: Proposal for "Concordance", a new type of social network
 
 The key to global transformation is collective action.  By gathering and working together, we can create a ripple effect that radiates outwards across society.  The need for global cooperation has never been greater, as the human population continues to grow beyond the Earth's carrying capacity, destroying biodiversity, warming the climate, and introducing increasing quantities of contaminants into the air, water and ground.
 
-Accords are the key to collective action.  Two people can reach an accord, they can invite a third, then a fourth, and so it spreads.  Over time, potentially thousands, even millions of people may reach accordance.  But upon what are we in accord?  To begin, we could commit to behave ethically, by pledging to treat myself, others, and the World, with love, kindness, and respect.  Wouldn't it be nice to one day live in a World where all people behave this way?
+Accords are the key to collective action.  Two people can reach an accord, they can invite a third, then a fourth, and so it spreads.  Over time, potentially thousands, even millions of people may reach accordance.  But upon what are we in accord?  To begin, we could commit to behave ethically, by pledging to treat ourselves, others, and the World, with love, kindness, and respect.  Wouldn't it be nice to one day live in a World where all people behave this way?
 
 # How to reach accord
 
