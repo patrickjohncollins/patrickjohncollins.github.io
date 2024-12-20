@@ -2,6 +2,18 @@
 title: Introducing "Concordance", a new type of social network 
 ---
 
+What follows is a proposal for a new class of social network.  The author has given this proposed social network the name "Concordance", literally "hearts together", meaning "agreement between persons, union in opinions or sentiment, state of mutual friendship, amiability".
+
+The network is composed of accords.  Accords spread via invitation.  A person may accept an invitation to adopt an accord by digitally signing it.  They may invite others in turn.
+
+Let's consider a few examples:
+
+* If I wish to offer travelers a place to sleep in my home, and enjoy the same benefit myself when I travel, I could sign the hospitality accord. 
+* If I would like someone to care for my home and (generally) for my pets during my absence, or conversely care for the homes and pets of others during their absence, then I could sign the house-sitting accord.
+* If I wish to practice a foreign language, and assist foreigners in my native language, I could sign the language-exchange accord.
+
+
+
 The key to global transformation is collective action.  By gathering and working together, we can create a ripple effect that radiates outwards across society.  The need for global cooperation has never been greater, as the human population continues to grow beyond the Earth's carrying capacity, destroying biodiversity, warming the climate, and introducing increasing quantities of contaminants into the air, water and ground.
 
 Accords are the key to collective action.  Two people can reach an accord, they can invite a third, then a fourth, and so it spreads.  Over time, potentially thousands, even millions of people may reach accordance.  But upon what are we in accord?  To begin, we could commit to behave ethically, by pledging to treat ourselves, others, and the World, with love, kindness, and respect.  Wouldn't it be nice to one day live in a World where all people behave this way?
