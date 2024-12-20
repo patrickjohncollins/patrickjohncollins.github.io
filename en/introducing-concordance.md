@@ -1,5 +1,5 @@
 ---
-title: Proposal for "Concordance", a new type of social network 
+title: Introducing "Concordance", a new type of social network 
 ---
 
 The key to global transformation is collective action.  By gathering and working together, we can create a ripple effect that radiates outwards across society.  The need for global cooperation has never been greater, as the human population continues to grow beyond the Earth's carrying capacity, destroying biodiversity, warming the climate, and introducing increasing quantities of contaminants into the air, water and ground.
