@@ -4,13 +4,17 @@ title: Introducing "Concordance"
 
 What follows is a proposal for a new class of social network.  The author has given this proposed social network the name "Concordance", literally "hearts together", meaning "agreement between persons, union in opinions or sentiment, state of mutual friendship, amiability".
 
-# Rationale
+# Utopian visions
 
 Let's begin with a stroll together into the best possible future for humanity.  Walking down any street, anywhere in the world, and every person we cross looks at us with love.  The people feel safe, relaxed and calm, with their physiological and psychological needs are met.  They are mindful and conscientious, they help each other out of the goodness of their hearts, and they do so because that is the way it has always been.  Every child grows up in a home and a community filled with joy.  Every home is a beautiful temple, every stone and timber is laid with the utmost care and reverence.  The primary sound is the wind in the leaves, the song of the birds, or the laughter of children at play.  In this future, we live in harmony with nature, the forests grow wild, animals run free, rivers flow clean, the air is pure.  In school, children learn the history of the before-times, when the world was filled with strife, and they shake their heads and say "I struggle to imagine what it must have been like".
 
-Back in the present, looming highway overpasses are choked with automobile traffic, the roadsides strewn with the carcasses of animals.  Supermarkets sell industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  On my journeys I have borne witness to psychosis, homelessness, poverty, orphanhood, violence, cruelty.  Madness breeds madness, society grows darker, our artistic vision of the future becomes ever more dystopian.  Alienated humans turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  Great power competition gives rise to a new cold war.  Autonomous robots are killing soldiers and civilians.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting more oil, gas, and coal, leading to global warming and sea level rise.  We introduce ever more contaminants into the air, water and ground.  To what end?
+# Dystopian reality
 
-It is clear that something major must be done to correct our course, avoid catastrophe, and usher in a kinder future.  The need for global cooperation has never been greater.  By gathering and working together, we can create a ripple effect that radiates outwards across society.  Hence this proposal for Concordance.
+Back in the present, looming highway overpasses are choked with automobile traffic, the roadsides strewn with the carcasses of animals.  Supermarkets distribute industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  Marginalized individuals suffer poverty, homelessness, psychosis.  The alienated turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  The news reports another senseless act of violence.  At the global level, great power competition gives rise to a new cold war.  Autonomous robots are now killing soldiers and civilians alike.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Meanwhile, our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting more oil, gas, and coal, leading to global warming and sea level rise.  Another oil spill, another nuclear accident, ever more contaminants released into the air, water and ground.  What a shame to wreck that which has developed over millions of years in the space of a few generations!  We are driven by fear to rampant competition, yet the Earth will continue it's lazy orbit around the Sun no matter what we do.
+
+# Great gathering
+
+The imperative has never been greater to gather and work with our hearts together, that we might correct our course and avert catastrophe.  Through our collective action we create a ripple effect that radiates outwards across the globe, strengthening societal bonds, encouraging virtue, and ushering in a kinder future.  While systemic change is always worth fighting for, considering the evident inability of our existing governing structures to meet the challenges of our times, perhaps it is time to try something different?  What follows is a not a incitement for violent revolution, nor an attempt to topple the state.  Rather it is a proposal for peaceful cooperation, in a manner that would not have been possible before the advent of the Internet, one that should be compatible with all but the most repressive regimes, and sensitive to cultural differences and religious affiliations.  Let us find concordance.
 
 # Reaching accord
 
@@ -26,7 +30,7 @@ For such accords to work in practice, members need to trust that others will adh
 
 # Path of adoption
 
-There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  The network can be considered a social experiment, it remains to be seen whether integrity can be maintained over time.  Hopefully, people will learn to become ever more respectful as a result of their participation.
+There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  The network can be considered a social experiment, it remains to be seen whether integrity can be maintained as it grows.  Hopefully, people will learn to become ever more respectful as a result of their participation.
 
 # Signing an accord
 
@@ -44,11 +48,7 @@ In practice, when providing assistance, I would need to act with care to ensure 
 
 # Death
 
-I may declare that a person has died, and specify to the best of my knowledge the date and time, the location, and the cause of death.
-
-I may declare that a person is missing presumed dead.
-
-If I have been declared dead by error, I may correct this by asserting my continued existence.
+In the case where a person has died, I must specify to the best of my knowledge the date and time, the location, and the cause of death.  I may also declare that a person is missing presumed dead.  If I have been declared dead or missing by error, I may correct this by asserting my continued existence.  
 
 
 # Foundation
@@ -56,7 +56,6 @@ If I have been declared dead by error, I may correct this by asserting my contin
 The above-mentioned mechanisms of invitations, signatures, reputation, and accord creation are stipulated in the foundational **association accord**, not based on any other, upon which all other accords are ultimately based.  This accord includes a pledge to treat ourselves, others, and the World, with love, kindness, and respect.
 
 
-As the system is for the living, if I know that a person has died, or is missing presumed dead, I may specify to the best of my knowledge the date and time, the location, and the cause.
 
 
 
