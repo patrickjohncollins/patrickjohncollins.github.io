@@ -183,4 +183,9 @@ Participants are encouraged to periodically update their node.  Ideally, they wo
 
 It should be clear that accords have many applications and can provide immense value to humanity.  The proposed system represents a new economic model, based on the principals of accord, liberty, love, kindness, respect, safety, solidarity, sustainability, cooperation, and collaboration.  Clearly this is an idealistic concept, and yet also representative of a deep human desire.  The system has the potential to grow, embracing an ever increasing share of global human economic activity.  Many accords may be added beyond the author's own imagination.
 
-Constructive criticism and suggestions are solicited from experts in the fields of electronics, cryptography, computer science, software engineering, psychology, sociology, ethics, economics, and law.  Please share this document with those who may be interested.  Donations are greatly appreciated to assist me in making this system a reality.
+Constructive criticism and suggestions are solicited from experts in the fields of electronics, cryptography, computer science, software engineering, psychology, sociology, ethics, economics, and law.  Please share this document with those who may be interested.  
+
+# Buy me a coffee?
+
+Donations are greatly appreciated to assist me in making this system a reality.  Even $1 helps!  [Click here](https://buymeacoffee.com/patrickjcollins) to make a donation here, and see other donors.
+
