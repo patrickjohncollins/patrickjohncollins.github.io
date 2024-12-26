@@ -2,27 +2,29 @@
 title: Introducing "Concordance"
 ---
 
-What follows is a proposal for a new class of social network.  The author has given this proposed social network the name "Concordance", literally "hearts together", meaning "agreement between persons, union in opinions or sentiment, state of mutual friendship, amiability".
+What follows is a proposal for a new class of social network, named "Concordance", literally "hearts together", meaning "agreement between persons, union in opinions or sentiment, state of mutual friendship, amiability".  The network is designed to foster love, bravery, honesty, wisdom, and connection.
 
 # Utopian visions
 
-Let's begin with a stroll together into the best possible future for humanity.  Walking down any street, anywhere in the world, and every person we cross looks at us with love.  The people feel safe, relaxed and calm, with their physiological and psychological needs are met.  They are mindful and conscientious, they help each other out of the goodness of their hearts, and they do so because that is the way it has always been.  Every child grows up in a home and a community filled with joy.  Every home is a beautiful temple, every stone and timber is laid with the utmost care and reverence.  The primary sound is the wind in the leaves, the song of the birds, or the laughter of children at play.  In this future, we live in harmony with nature, the forests grow wild, animals run free, rivers flow clean, the air is pure.  In school, children learn the history of the before-times, when the world was filled with strife, and they shake their heads and say "I struggle to imagine what it must have been like".
+Let's begin with a stroll together into the best possible future for humanity.  Walking down any street, anywhere in the world, every person we cross looks at us with love.  The people feel safe, relaxed and calm, with their physiological and psychological needs are met.  They are mindful and conscientious, they help each other out of the goodness of their hearts, and they do so because that is the way it has always been.  Every child grows up in a home and a community filled with joy.  Every settlement and home is  beautiful, every stone and timber laid with the utmost care and reverence.  The primary sound is the wind in the leaves, the song of the birds, or the laughter of children at play.  In this future, we live in harmony with nature, the forests grow wild, animals run free, rivers flow clean, the air is pure.  In school, children learn the history of the before-times, and they shake their heads and say "I struggle to imagine what it must have been like".
 
 # Dystopian reality
 
-Back in the present, looming highway overpasses are choked with automobile traffic, the roadsides strewn with the carcasses of animals.  Supermarkets distribute industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  Marginalized individuals suffer poverty, homelessness, psychosis.  The alienated turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  The news reports another senseless act of violence.  At the global level, great power competition gives rise to a new cold war.  Autonomous robots are now killing soldiers and civilians alike.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Meanwhile, our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting more oil, gas, and coal, leading to global warming and sea level rise.  Another oil spill, another nuclear accident, ever more contaminants released into the air, water and ground.  What a shame to wreck that which has developed over millions of years in the space of a few generations!  We are driven by fear to rampant competition, yet the Earth will continue it's lazy orbit around the Sun no matter what we do.
+Back in the present, looming highway overpasses are choked with automobile traffic, the roadsides strewn with the carcasses of animals.  Supermarkets distribute industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  Marginalized individuals suffer poverty, homelessness, psychosis.  The alienated turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  The news reports another senseless act of violence.  At the global level, great power competition gives rise to a new cold war.  Autonomous robots are now killing soldiers and civilians alike.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting more oil, gas, and coal, leading to global warming and sea level rise.  Another oil spill, another nuclear accident, ever more contaminants released into the air, water and ground.  We are driven by fear to rampant competition, wrecking that which has developed over millions of years in the space of a few generations, causing ourselves great harm in the process.
 
 # Great gathering
 
-The imperative has never been greater to gather and work with our hearts together, that we might correct our course and avert catastrophe.  Through our collective action we create a ripple effect that radiates outwards across the globe, strengthening societal bonds, encouraging virtue, and ushering in a kinder future.  While systemic change is always worth fighting for, considering the evident inability of our existing governing structures to meet the challenges of our times, perhaps it is time to try something different?  What follows is a not a incitement for violent revolution, nor an attempt to topple the state.  Rather it is a proposal for peaceful cooperation, in a manner that would not have been possible before the advent of the Internet, one that should be compatible with all but the most repressive regimes, and sensitive to cultural differences and religious affiliations.  Let us find concordance.
+The imperative has never been greater to gather and harmonize our actions, that we might correct our course, avert catastrophe, and usher in a kinder future.  As our existing governing structures are evidently unable to meet the challenges of our times, perhaps it is time to try an alternative.  The advent of the Internet provides the possibility for a new form of peaceful cooperation, one that should be compatible with all but the most repressive regimes, and also sensitive to cultural differences.  A system designed to raise conciousness, to subvert the patterns of oppression and tyranny, to gain attractiveness by capturing an ever larger share of human productive energy, to provide a source of truth and trust.  Together, we can create a ripple effect that radiates outwards across the society, strengthening our bonds and encouraging virtue.  Let us find concordance.
 
 # Reaching accord
 
-The network is composed of accords, which spread via invitation.  I may accept an invitation by digitally signing the accord.  Having adopted the accord, I may interact with members.  I may also choose to invite others in turn.  Let's consider a few examples:
+The proposed network is composed of accords, which spread via invitation.  I may accept an invitation by digitally signing the accord.  Having adopted the accord, I may interact with members.  I may also choose to invite others in turn.  This is all a little abstract, so let's consider a few examples:
 
 * If I wish to offer travelers a place to sleep in my home, and enjoy the same benefit myself when I travel, I could sign the **hospitality accord**. 
 * If I would like someone to care for my home and (generally) for my pets during my absence, or conversely care for the homes and pets of others during their absence, then I could sign the **house-sitting accord**.
 * If I wish to practice a foreign language, and teach foreigners my native language, I could sign the **language-exchange accord**.
+
+Some would sign these accords, others wouldn't.  The act of signing is the closest to "voting" that exists within the system.  I get to decide the degree to which I want to cooperate with others.  There is no obligation to participate, but in order to get something out, I need to put something in.
 
 # Adherence through reputation
 
@@ -30,7 +32,7 @@ For such accords to work in practice, members need to trust that others will adh
 
 # Path of adoption
 
-There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  The network can be considered a social experiment, it remains to be seen whether integrity can be maintained as it grows.  Hopefully, people will learn to become ever more respectful as a result of their participation.
+There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  The network can be considered a social experiment, it remains to be seen whether integrity can be maintained as it grows.  Ideally, people will learn to become ever more respectful as a result of their participation.  Concordance can be therefore considered not simply a social network, but a socialization network.
 
 # Signing an accord
 
@@ -38,34 +40,24 @@ I sign an accord by entering my private key, which is a unique memorable phrase,
 
 # New accords 
 
-If I have an idea for a new accord, I may create it using clear and simple language, in a manner that is understandable for all, which I then sign, publish to the registry, and begin to invite others.  I may broadcast the existence of an accord to solicit adoption, or encourage secrecy.  I may not unilaterly modify the conditions of an accord, therefore accords may not be modified once signed.  I could however publish an updated accord, gain signatures, and gradually displace an older accord which falls into obsolescence.  New accords are based upon an existing accord, and inherit the conditions of that accord, forming a many-branching tree.  When I sign an accord, I also sign the accords that it based upon, if I have not done so already.  As accords are made for the common good, they are placed in the commons, and thus belong to humanity.  Accords may be authored in any language, and translated into any language, facilitating their spread across linguistic boundaries.
+If I have an idea for a new accord, I may create it using clear and simple language, in a manner that is understandable for all, which I then sign, publish to the registry, and begin to invite others.  I may broadcast the existence of an accord to solicit adoption, or encourage secrecy.  I may not unilaterly modify the conditions of an accord, however I could publish an updated accord, gain signatures, and gradually displace an older accord which falls into obsolescence.  New accords are based upon an existing accord, and inherit the conditions of that accord, forming a many-branching tree.  When I sign an accord, I also sign the accords that it based upon, if I have not done so already.  As accords are made for the common good, they are placed in the commons, and thus belong to humanity.  Accords may be authored in any language, and translated into any language, facilitating their spread across linguistic boundaries.
 
-# Trusted Assistance 
+# Account management 
 
 Because there is no central authority in the network, if I lose, forget, or suffer theft of my private key, I may request assistance from those whom I have designated.  For simplicity, the person who originally invited me to sign the association agreement is automatically designated, and anyone who I invite is also automatically designated.  I may revoke any designation.
 
 In practice, when providing assistance, I would need to act with care to ensure that the person is indeed who they say they are.  We can imagine online scammers entering fake requests for assistance in order to gain control of people's accounts.  Ideally, such assistance should only be provided in-person. 
 
-# Death
-
-In the case where a person has died, I must specify to the best of my knowledge the date and time, the location, and the cause of death.  I may also declare that a person is missing presumed dead.  If I have been declared dead or missing by error, I may correct this by asserting my continued existence.  
-
+In the case where a person has died, I must specify to the best of my knowledge the date and time, the location, and the cause of death.  I may also declare that a person is missing presumed dead.  If I have been declared dead or missing by error, I may correct this by asserting my continued existence, hopefully this will rarely occur.
 
 # Foundation
 
-The above-mentioned mechanisms of invitations, signatures, reputation, and accord creation are stipulated in the foundational **association accord**, not based on any other, upon which all other accords are ultimately based.  This accord includes a pledge to treat ourselves, others, and the World, with love, kindness, and respect.
+The above-mentioned mechanisms of invitations, signatures, reputation, accord creation, and account management, are stipulated in the foundational **association accord**.  This accord is not based on any other, and serves as the basis for all other accords.  
+
+As the accord is not geographically bounded, it is therefore universal, and may be adopted by people regardless of location, language, nationality, ethnicity, political alignment, or religious affiliation.  No mention is made of violence, the threat of violence, or an attempt to gain a monopoly on violence, and therefore the accord can not be considered an article of statehood.  The system is effectively leaderless, with no method of governance, no method of elections.  No mention is made of the supernatural or the spiritual, therefore the accord does not challenge the primacy of religion. 
 
 
-
-
-
-
-# Signatures & invitations
-
-Accords are recorded in a registry.  
-
-If I lose, forget, or suffer theft of my private key, I may request assistance from those whom I have designated.
-
+The theory of unentanglement
 
 
 
@@ -76,8 +68,6 @@ Where is the guiding hand, cathedral vs bazaar
 
 How do accords enter into the cracks of the economy?  And gradually take over?
 
-
-Stick this somewhere: Concordance does not challenge the primacy of the state, for there is no mention of violence, the threat of violence, or an attempt to gain a monopoly on violence.  Also there is no mention of governors, presidents, or other power-brokers.  There is also no mention of elections, either of representatives or policy.  Nor money or any unit of exchange.  Concordance also does not challenge the primacy of religion.  No mention is made of the supernatural or the spiritual.
 
 The need for uniform global adoption
 
@@ -92,11 +82,46 @@ Land stewardship accord
 
 Building blocks of the economy
 
+Privacy accord?  Assembly accord?  Speech accord?  Truth accord?
+
+
+
+open source struggles to capture the value that it generates
+
+
+# Community grid computer
+
+Concordance is a digital system, for a digital era, indeed such a system could not exist prior to the advent of personal computing and global connectivity.  Accords are recorded in a registry, that is hosted by a computing grid composed of nodes, where each node is a computer.  Participants acquire a node, which needs to be powered, connected to other nodes, generally via the Internet, and essentially left undisturbed, most likely in a corner of their own home.  The grid is thus owned and operated by the community.
+
+Each node offers processing power, memory, and storage to the network.  A relatively cheap computing node exists in the form of the Raspberry PI board, about the size of a credit card, where the 8GB model 5 costs $80.  Without wanting to dive too much into the technical details, to this computer can be added a M.2 HAT+ board for $10, allowing the connection of a NVMe SSD drive, offering 1TB of storage for approximately $50.  These components should be placed within a case equipped with a silent fan.  Including a power cable, the total would come to less than $200 (amounts in USD circa 2024).  Note that the device is headless, having no screen, keyboard or mouse is attached.  While the challenge of assemby may seem daunting for some, it is ultimately not that complicated, and also empowering.  
+
+Because the definition of the system software is hosted within the grid, only an existing node can produce installation media.  By connecting a USB pendrive, 
+ 
+The system software can be provided via a USB pendrive, to be entered before powering on the device.  The computer boots from the USB pendrive, then copies the system software to the SSD drive.  The computer can be unpowered, the USB pendrive removed, then connected via en ethernet cable to the home router, and powered on.
+
+Cloning.
+
+The software definition exists within the network.  Can't be downloaded from elsewhere.
+
+
+The node needs to be connected to other nodes, generally via the Internet.  Nodes could potentially be equipped with antennas and establish wireless mesh networks with other nodes, bypassing third-party Internet service providers, or providing connectivity in locations where no service exists.  Peer discovery??
 
 
 
 
 
+My node hosts the accords that I have signed.  Information pertaining to an accord is replicated amongst nodes operated by signatories.  If a node is destroyed or malfunctions, a replacement node can be added to the grid, and the information restored automatically.  If a node is stolen, no encrypted information is compromised.  
+
+Participants are encouraged to periodically update their node.  Ideally, they would receive a newer model via courier, and return the old model.  The **community computing accord** would organize the activity of production and recycling of these devices.  Each generation of node would offer increased capacity and security.  Nodes are composed of open hardware components, where available, and when not, action is taken to produce them.  Over time, the network may acquire the resources needed to freely distribute nodes to new participants.
+
+
+
+
+
+
+
+
+If I want to engage in written, verbal, or video conversation, on a one-to-one, one-to-many, or many-to-many basis, in a synchronous or asynchronous manner, then I may sign the **communication accord**.  People may continue to communicate via E-mail, WhatsApp, WeChat, Signal, Facebook Messenger, et cetera, however choosing to communicate with other participants through this accord offers the foundation of ethical behaviour and reputation mentioned above.  
 
 
 
@@ -147,8 +172,6 @@ Many more accords can encourage safety through collective adherence, in specific
 
 # Collaboration
 
-If I want to engage in written, verbal, or video conversation, on a one-to-one, one-to-many, or many-to-many basis, in a synchronous or asynchronous manner, then I may sign the **communication accord**.  People may continue to communicate via E-mail, WhatsApp, WeChat, Signal, Facebook Messenger, et cetera, however choosing to communicate with other participants through this accord offers the foundation of ethical behaviour and reputation mentioned above.  
-
 If I want to organize or participate in physical gatherings, then I may sign the **events accord**.  Events are open to all participants, specifying the theme, location, dates and times, and capacity.  As above, choosing to organize events with other participants through this accord offers the foundation of ethical behaviour and reputation.
 
 If I want to share my knowledge, then I may sign the **collective knowledge accord**.  From the accord could spring subsequent accords, where participants collectively develop dictionaries, textbooks and learning materials, an encyclopedia, or a world map.
@@ -171,13 +194,6 @@ The accord registry also provides tools for the writing and maintenance of softw
 
 I may access accords that I have signed and the associated information via an application on my terminal, typically a phone, a tablet, or a laptop.  When I interact with someone, I can see the accords that we have in common.  All accords and associated information may be referenced through hyperlinks.
 
-# Community computing
-
-The accord registry, and all other software components, are hosted by a grid of computers, where each computer is known as a node.  The grid is owned and operated collectively by participants.  Participants acquire a node, which needs to be powered, connected to the Internet, and essentially left undisturbed, most likely in their home.  Each node offers processing power, memory, and storage to the network.
-
-My node hosts the accords that I have signed.  Information pertaining to an accord is replicated amongst nodes operated by signatories.  If a node is destroyed or malfunctions, a replacement node can be added to the grid, and the information restored automatically.  If a node is stolen, no encrypted information is compromised.  Nodes could potentially be equipped with antennas and establish mesh networks with other nodes, bypassing third-party Internet service providers.
-
-Participants are encouraged to periodically update their node.  Ideally, they would receive a newer model via courier, and return the old model.  The **community computing accord** would organize the activity of production and recycling of these devices.  Each generation of node would offer increased capacity and security.  Nodes are composed of open hardware components, where available, and when not, action is taken to produce them.  Over time, the network may acquire the resources needed to freely distribute nodes to new participants.
 
 # Get involved
 
