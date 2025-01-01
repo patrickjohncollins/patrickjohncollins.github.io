@@ -14,11 +14,13 @@ Back in the present, looming highway overpasses are choked with automobile traff
 
 # Great gathering
 
-The imperative has never been greater to gather and harmonize our actions, that we might correct our course, avert catastrophe, and usher in a kinder future.  As our existing governing structures are evidently unable to meet the challenges of our times, perhaps it is time to try an alternative.  The advent of the Internet provides the possibility for a new form of peaceful cooperation, one that should be compatible with all but the most repressive regimes, and also sensitive to cultural differences.  A system designed to raise conciousness, to subvert the patterns of oppression and tyranny, to gain attractiveness by capturing an ever larger share of human productive energy, to provide a source of truth and trust.  Together, we can create a ripple effect that radiates outwards across the society, strengthening our bonds and encouraging virtue.  Let us find concordance.
+The imperative has never been greater to gather and harmonize our actions, that we might correct our course, avert catastrophe, and usher in a kinder future.  The advent of the Internet marks a pivotal moment in human history, for more than half of humanity is now interconnected, and this share grows every day.  This medium unlocks the possibility for a new form of global cooperation, one that radiates outwards across the society, strengthening our bonds, encouraging virtue, and raising conciousness.
+
+Given that all social constructs are essentially imaginary, we could imagine new progressive constructs that promote the pattern of peaceful liberation, anchored in a free and open system that belongs to all.  From a tiny seed a beautiful community quietly blooms, gently capturing an increasing share of human productive energy, offering a source of truth and trust.  Always sensitive to cultural differences, and careful to remain compatible with all but the most repressive regimes.  This is the dream of concordance.
 
 # Reaching accord
 
-The proposed network is composed of accords, which spread via invitation.  I may accept an invitation by digitally signing the accord.  Having adopted the accord, I may interact with members.  I may also choose to invite others in turn.  This is all a little abstract, so let's consider a few examples:
+The basic building blocks of the system are accords.  Accords spread via invitation.  I may accept an invitation by digitally signing the accord.  Having adopted the accord, I may interact with members.  I may also choose to invite others in turn.  Let's consider a few examples:
 
 * If I wish to offer travelers a place to sleep in my home, and enjoy the same benefit myself when I travel, I could sign the **hospitality accord**. 
 * If I would like someone to care for my home and (generally) for my pets during my absence, or conversely care for the homes and pets of others during their absence, then I could sign the **house-sitting accord**.
@@ -32,7 +34,7 @@ For such accords to work in practice, members need to trust that others will adh
 
 # Path of adoption
 
-There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  The network can be considered a social experiment, it remains to be seen whether integrity can be maintained as it grows.  Ideally, people will learn to become ever more respectful as a result of their participation.  Concordance can be therefore considered not simply a social network, but a socialization network.
+There are many people in the world for whom acting with respect comes naturally.  By desire to preserve respect within the network, they would be uninclined to invite those they perceive to be disrespectful.  Wide-spread adoption by all of humanity is eventually possible, and indeed desirable, however there exists a path of adoption through society, from the most respectful to the least.  It remains to be seen whether integrity can be maintained as the network grows.  Ideally, people will learn to become ever more respectful as a result of their participation.  Concordance can therefore be considered not simply a social network, but a socialization experiment.
 
 # Signing an accord
 
@@ -54,7 +56,9 @@ In the case where a person has died, I must specify to the best of my knowledge 
 
 The above-mentioned mechanisms of invitations, signatures, reputation, accord creation, and account management, are stipulated in the foundational **association accord**.  This accord is not based on any other, and serves as the basis for all other accords.  
 
-As the accord is not geographically bounded, it is therefore universal, and may be adopted by people regardless of location, language, nationality, ethnicity, political alignment, or religious affiliation.  No mention is made of violence, the threat of violence, or an attempt to gain a monopoly on violence, and therefore the accord can not be considered an article of statehood.  The system is effectively leaderless, with no method of governance, no method of elections.  No mention is made of the supernatural or the spiritual, therefore the accord does not challenge the primacy of religion. 
+As the accord is not geographically bounded, it is therefore universal, and may be adopted by people regardless of location, language, nationality, ethnicity, political alignment, or religious affiliation.  
+
+No mention is made of violence, the threat of violence, or an attempt to gain a monopoly on violence, and therefore the accord can not be considered an article of statehood.  The system is effectively leaderless, with no method of governance, no method of elections.  No mention is made of the supernatural or the spiritual, therefore the accord does not challenge the primacy of religion. 
 
 
 The theory of unentanglement
@@ -87,6 +91,48 @@ Privacy accord?  Assembly accord?  Speech accord?  Truth accord?
 
 
 open source struggles to capture the value that it generates
+
+q&a like stackoverflow
+
+impossible.com - gift economy
+kickstarter, indigogo
+but it is not about money, but effort
+
+land stewardship
+food production & distribution
+clothing & textiles
+energy production
+robotic mining, manufacturing, transport
+
+
+i will only share works that i have made myself
+
+
+before i fulfull my wants, i ensure that every has their basic needs fulfilled
+
+
+trying to manage one's digital life is too complicated for most people, even for me as a seasoned software engineer and geek
+accounts, passwords, privacy violations, knowing who to trust
+
+
+backup my conversations, documents, photos and videos
+
+
+function evolutions (features) requests, interest (stars/votes), status (is anyone working on it, is anyone planning to?), delivery/notification for interested parties
+
+
+
+social tissue
+how do we bring people who are isolated into the fold?
+how do we bring haters and racists into the fold?
+these people are largely lonely and afraid
+
+who has the right to merge a pull request?
+does every person have to maintain the code that is running on their server?
+can we delegate responsability to someone else?
+bit like the election for the plane's pilot
+but there is a pilot's association, with a certificate or license
+
 
 
 # Community grid computer
