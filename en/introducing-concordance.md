@@ -10,17 +10,17 @@ Let's begin with a stroll together into the best possible future for humanity.  
 
 # Dystopian reality
 
-Back in the present, looming highway overpasses are choked with automobile traffic.  Marginalized individuals suffer poverty, homelessness, psychosis.  Along roadsides we see the sad remains of animals torn to shreds.  Supermarkets aisles are packed with industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  The alienated turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  The news reports another senseless act of violence.  At the global level, great power competition gives rise to a new cold war.  Autonomous robots are now killing soldiers and civilians alike.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting and burning more oil, gas, and coal, leading to global warming and sea level rise.  Another oil spill, another nuclear accident, ever more contaminants released into the air, water and ground.  We are driven by fear to rampant competition, wrecking that which has developed over millions of years in the space of a few generations, causing ourselves great harm in the process.  Our artistic vision of the future grows darker.
+Back in the present, looming highway overpasses are choked with automobile traffic.  Marginalized individuals suffer poverty, homelessness, psychosis.  Along roadsides we see the sad remains of animals torn to shreds.  Supermarkets aisles are packed with industrial food that generates illness, to be treated by a plethora of pharmaceuticals.  The alienated turn to alcohol, cannabis, opiods, dissociatives, whatever they can find to soothe the aching.  The news reports another senseless act of violence.  At the global level, great power competition gives rise to a new cold war.  Autonomous robots are now killing soldiers and civilians alike.  Nuclear arsenals are increasing.  Disinformation campaigns unfold on social media.  Wealth inequality deepens, while authoritarianism rises.  Our overall hostility to the environment is so extreme that our species can be considered ecocidal.  Half the coral reefs have died.  We're fishing all the fish out of the sea, logging all the rainforest.  Biodiversity declines, while our population increases.  We keep extracting and burning more oil, gas, and coal, leading to global warming and sea level rise.  Another oil spill, another nuclear accident, ever more contaminants released into the air, water and ground.  We are driven by fear to rampant competition, wrecking that which has developed over millions of years in the space of a few generations, causing ourselves great harm in the process.  Our artistic vision of the future grows darker.  These are but some of the ills that beset contemporary society.
 
 # Great gathering
 
-It must be possible to correct our course, avert catastrophe, and usher in a kinder future.  The advent of the Internet marks a pivotal moment in human history, for more than half of humanity is now interconnected, and this share grows every day.  This medium unlocks the possibility for a new form of global cooperation, one that may radiate outwards across the society, strengthening our bonds, harmonizing our actions, and raising conciousness.
+It must be possible to correct our course, avert catastrophe, and usher in a kinder future.  The advent of the Internet marks a pivotal moment in our history, for more than half of humanity is now interconnected, and this share grows every day.  This medium unlocks the possibility for a new form of global cooperation, one that may radiate outwards across  society, strengthening our bonds, harmonizing our actions, and raising conciousness.
 
 Given that all social constructs are essentially imaginary, we could imagine new progressive constructs that promote the pattern of peaceful liberation, anchored in a free and open system that belongs to all.  From a tiny seed a beautiful community quietly blooms, gently capturing an increasing share of human productive energy, offering a source of truth and trust.  Always sensitive to cultural differences, and careful to remain compatible with all but the most repressive regimes.  This is the dream of Concordance.
 
 # Reaching accord
 
-The basic building blocks of the system are accords.  Accords spread via invitation.  I may accept an invitation by signing the accord.  Having adopted the accord, I may interact with members.  I may also choose to invite others in turn.  Of the many accords that may exist, let's consider a few examples:
+The basic building blocks of the system are accords.  Accords spread via invitation.  I may accept an invitation by signing an accord.  Having adopted the accord, I may interact with members.  Seeing the benefits, I may also choose to invite others in turn.  Of the many accords that may exist, let's consider a few practical examples:
 
 * If I wish to offer travelers a place to sleep in my home, and enjoy the same benefit myself when I travel, I could sign the **hospitality accord**. 
 * If I would like someone to care for my home and (generally) for my pets during my absence, or conversely care for the homes and pets of others during their absence, then I could sign the **house-sitting accord**.
@@ -46,7 +46,7 @@ If I have an idea for a new accord, I may create it using clear and simple langu
 
 # Trusted assistance 
 
-Because there is no central authority, if I lose, forget, or suffer theft of my private key, I may request assistance from those whom I have designated.  For simplicity, the person who originally invited me is automatically designated, and anyone who I invite is also automatically designated.  I may revoke any designation.
+Because there is no central authority, if I lose, forget, or suffer theft of my private key, I may request assistance from those whom I have designated.  For simplicity, the person who originally invited me is automatically designated, as is anyone who I invite.  I may revoke any designation.
 
 In practice, when providing assistance, I would need to act with care to ensure that the person is indeed who they say they are.  We can imagine online scammers entering fake requests for assistance in order to gain control of people's accounts.  Ideally, such assistance should only be provided in-person. 
 
@@ -56,9 +56,14 @@ In the case where a person has died, I must specify to the best of my knowledge 
 
 # Cornerstone
 
-Before we can agree on anything, we must first agree to agree.  Hence the **association accord**, which stipulates the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization.  This accord serves as the basis for all others.
+Before we can agree on anything, we must first agree to agree.  Hence the **association accord**, which stipulates the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization.  This accord serves as the basis for all others.  The accord is minimalist in the extreme, including only that which is strictly necessary for such a system to operate.
 
-The accord is minimalist in the extreme, including only that which is strictly necessary for such a system to operate.
+The accord weaves together many strands of left-leaning political philosophy, including [progressivism](https://en.wikipedia.org/wiki/Progressivism), [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice), [voluntary association](https://en.wikipedia.org/wiki/Voluntary_association), [communitarianism](https://en.wikipedia.org/wiki/Communitarianism), [free culture](https://en.wikipedia.org/wiki/Free-culture_movement), [crypto-anarchy](https://en.wikipedia.org/wiki/Crypto-anarchy), and [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)).
+
+
+it said that people can be motivated by a carrot and a stick.  most governments only offer the stick in terms of fines and prison sentences for misdeeds, but seem to offer little incentive for good deeds.
+
+
 
 The remainder of this proposal is dedicated to exploring further accords, which together form a cohesive structure.  It is expected that over time other participants will expand and evolve the accord architecture beyond the limits of the author's own imagination. 
 
