@@ -38,11 +38,11 @@ After interacting through an accord, members are encouraged to provide each othe
 
 # Signing an accord
 
-I sign an accord by entering my private key, which is a unique memorable phrase, known only to me.  I do so of my own free will, associating voluntarily with others, for no one should be coerced into signing an accord.  I assert that I am mature human of stable mind, which precludes robots, children, and those suffering dementia.  I may only enter an accord once, in my own names, on my own behalf, therefore I may not misbehave and attempt to create a new account under an assumed name.  Identity is important, for we can only trust a person's reputation, in so much as we trust that they are who they say they are.  In scenarios where I have decided to assume a new name different from my birth name, I must provide all names, and indicate the primary.  The act of signing unlocks the accord, enabling me to see the other members and interact with them, for accords are encrypted such that their very existence and associated information is invisible to non-members.  
+I sign an accord by entering my private key, which is a unique memorable phrase, known only to me.  I do so of my own free will, associating voluntarily with others, for no one should be coerced into signing an accord.  I assert that I am mature human of stable mind, which precludes robots, children, and those suffering dementia.  I may only enter an accord once, in my own names, on my own behalf, therefore I may not misbehave and attempt to create a new account under an assumed name.  Identity is important, for we can only trust a person's reputation, in so much as we trust that they are who they say they are.  In scenarios where I have decided to assume a new name different from my birth name, I must provide all names, and indicate the primary.  The act of signing unlocks the accord, enabling me to see the other members and interact with them, for accords are encrypted such that their very existence and associated information is invisible to non-members.  The power of an accord is a function of participation, as more people adopt and adhere to an accord, so change radiates across society.
 
 # New accords 
 
-If I have an idea for a new accord, I may create it using clear and simple language, in a manner that is understandable for all, which I then sign, publish to the registry, and begin to invite others.  I may broadcast the existence of an accord to solicit adoption, or encourage secrecy.  I may not unilaterly modify the conditions of an accord, however I could publish an updated accord, gain signatures, and gradually displace an older accord which falls into obsolescence.  New accords are based upon an existing accord, and inherit the conditions of that accord, forming a many-branching tree.  When I sign an accord, I also sign the accords that it based upon, if I have not done so already.  As accords are made for the common good, they are placed in the commons, and thus belong to humanity.  Accords may be authored in any language, and translated into any language, facilitating their spread across linguistic boundaries.
+If I have an idea for a new accord, I may create it using clear and simple language, in a manner that is understandable for all.  Contrast this to the exceedingly long and largely incomprehensible end user license agreements that we regularly agree to without reading in order to interact with online services.  Accords may be symbolic in nature, representing a form of virtue signalling, or practical in nature, involving mechanisms to modulate behavour and direct interactions.  Having created the accord, I sign it, publish it to the registry, and begin to invite others.  I may broadcast the existence of an accord to solicit adoption, or encourage secrecy.  I may not unilaterly modify the conditions of an accord, however I could publish an updated accord, gain signatures, and gradually displace an older accord which falls into obsolescence.  New accords are based upon an existing accord, and inherit the conditions of that accord, forming a many-branching tree.  When I sign an accord, I also sign the accords that it based upon, if I have not done so already.  As accords are made for the common good, they are placed in the commons, and thus belong to humanity.  Accords may be authored in any language, and translated into any language, facilitating their spread across linguistic boundaries.
 
 # Trusted assistance 
 
@@ -54,20 +54,87 @@ In practice, when providing assistance, I would need to act with care to ensure 
 
 In the case where a person has died, I must specify to the best of my knowledge the date and time, the location, and the cause of death.  I may also declare that a person is missing presumed dead.  Such actions serve to memorialize an account, and halt any potential nefarious use.  If I have been declared dead or missing by error, I may correct this by asserting my continued existence, hopefully this will rarely occur.
 
-# Cornerstone
+# Laying the cornerstone
 
-Before we can agree on anything, we must first agree to agree.  Hence the **association accord**, which stipulates the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization.  This accord serves as the basis for all others.  The accord is minimalist in the extreme, including only that which is strictly necessary for such a system to operate.
+Before we can agree on anything, we must first agree to agree.  Hence the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization, are themselves stipulated in an accord.  This **association accord** serves as the basis for all others.  It is minimalist in the extreme, including only that which is strictly necessary for such a system to operate, weaves together many strands of left-leaning political philosophy, including [progressivism](https://en.wikipedia.org/wiki/Progressivism), [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice), [voluntary association](https://en.wikipedia.org/wiki/Voluntary_association), [communitarianism](https://en.wikipedia.org/wiki/Communitarianism), [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)), [free culture](https://en.wikipedia.org/wiki/Free-culture_movement), and [crypto-anarchy](https://en.wikipedia.org/wiki/Crypto-anarchy).  It lays the foundation for an architecture of accords, that seek to offer liberation, dignity, solidarity, cooperation, sustainability, and standardization, of which a set of examples are presented in this proposal.  Many more will surely flourish, beyond the limitations of the author's own imagination.
 
 # On states and religions
 
-In few words, the accord weaves together many strands of left-leaning political philosophy, including [progressivism](https://en.wikipedia.org/wiki/Progressivism), [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice), [voluntary association](https://en.wikipedia.org/wiki/Voluntary_association), [communitarianism](https://en.wikipedia.org/wiki/Communitarianism), [free culture](https://en.wikipedia.org/wiki/Free-culture_movement), [crypto-anarchy](https://en.wikipedia.org/wiki/Crypto-anarchy), and [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)).  It may initially appear that such a system grasps at statehood, however this is not the case.  A state is generally understood to be an organization that exercises a monopoly of violence over a defined geographical territory.  In Concordance, the basic pledge to embody virtue naturally precludes violence, or any attempt to control others.  Furthermore, there is no definition of territory.  Seen another way, it is said that people can be motivated by a carrot and a stick.  Governments brandish the stick in terms of fines or prison sentences or worse punishments for misdeeds, but offer little to no incentive for good deeds.  In Concordance, there simply is no stick, only carrots.  This is not a political party, nor seeks to become one, though it could be considered to be a fraternal order or secret society, although lacking in symbolism, regalia, and other rituals.  One can be Irish, Malay, Brazilian, etc and also be Concordant.  Similarly, one can be Christian, Muslim, Hindu, etc and also be Concordant.  Concordance specifically makes no mention of spiritual or supernatural matters whatsoever.
+At this point, it might initially appear to the reader that such a system grasps at statehood, however this is not the case.  This is not a political party, nor seeks to become one.  A state is widely understood to be an organization that exercises a monopoly of violence over a defined geographical territory.  Here, the basic pledge to embody virtue naturally precludes violence or any attempt to control others, furthermore there is no definition of territory.  One can be Irish, Malay, Brazilian, etc and also be Concordant.  Seen another way, it is said that people can be motivated by a carrot and a stick.  Governments brandish the stick in terms of fines, prison sentences, or worse punishments for misdeeds, but offer little to no incentive for good deeds, whereas in Concordance, there simply is no stick, only carrots.  The movement is not one of global domination, but global liberation.
+
+In some ways, Concordance could be compared to a fraternal order or secret society, but lacks the symbolism, regalia, ranks, and other rituals.  Unlike a decentralized autonomous organization, there is no allocation and distribution of tokens that grant voting rights.  The movement is neither religious nor secular, as no mention is made of spiritual or supernatural matters whatsoever.  One can be Christian, Muslim, Hindu, etc and also be Concordant.  Note that individuals are free to sign or refuse to sign individual accords as per their beliefs and values.  Truly the concept is *sui generis*, in a class of its own.
 
 
-The remainder of this proposal is dedicated to exploring further accords, which together form a cohesive structure.  It is expected that over time other participants will expand and evolve the accord architecture beyond the limits of the author's own imagination. 
+
+
+
+
+
+# A tale of two friends
+
+Two friends meet for a coffee.  Having long since signed the association accord, they each bring along their binders of accords.  Says one friend to the other: "Here's a new accord that I signed recently, it's a house-sitting accord."  "Oh, how practical!  I have a cat, and when I travel I usually ask my neighbour to feed it and clean the litter, but as I have been traveling more frequently of late, I feel that I am making an imposition.  Personally I wouldn't mind to have someone else stay using my absence and look after my cat."  They pull out a blank sheet and copy the accord, which they sign and place in their binder.  "I can't help but wonder, but what's in it for the sitter?"  "Well, who knows, perhaps they simply want to visit the city, there could be many reasons.  I'm sure this is a question you would ask a potential candidate during the interview."  "Hmmm.  But how would someone know when I need a sitter?"  "Quite simple," the first friend replies, "you let me know the dates you're absent, and I'll tell the person who invited me the next time we meet for coffee.  I've also invited two other people, so at some point I'll tell them too.  In this manner, your request will propogate up and down the tree of adoption, eventually reaching everyone.  Furthermore, I made a new acquaintance recently, and it just so happens that they are also a member, although they were invited by someone completely different.  I'll let them know as well, and so your request would propogate along that branch faster, thus reducing the time to reach everyone.  Hopefully someone out there will send you an application via the post."  "Ah, I see," says the other, "and so if someone tells you about a request that you've already heard it from another, then you don't bother to propogate it again."  "Exactly!"  "Still though, it must be quite the bother to have to copy these requests each time you meet for a coffee."  The first friend sighs, withdrawing from his suitcase another binder, opens it and begins to turn the pages, each filled with house-sitting requests.  "Yes, quite the bother indeed.  And look here, the requests on this page are in the past, so I can discard that one.  If only we had a computing network that could do the work for us!"
+
+If only, indeed.  What's more, the above narrative elided over the fact that the writing in the binders would be scrambled gibberish, only readable by the owner who knows the secret key, protecting the contents from prying eyes.  When making a copy from the unscrambled text, the copy would itself be rescrambled, based on a different key, producing a different ciphertext.  Clearly, such a system is only feasible with computers, able to perform such tasks in milliseconds.  Computing network open so many possibilities for human organization and interaction.
+
+# Distributed computing
+
+The previous narrative illustrates how information can traverse a network lacking a central authority.  In a network of computers, it would not be necessary for each participating computer to store the complete set of all the house-sitting opportunities in the world.  Instead, an opportunity is published to one, which then relay to its peers, whom in turn relay to their peers, and so on.  If a peer is offline, computers would temporarily store messages, periodically retrying delivery.
+
+A person searching for house-sitting opportunities in a particular area, of a particular duration, within a particular date range, etc, could create a filter on their computer.  The filter would then begin to record new matching opportunities as they pass, and also raise notifications if so desired.  Any active matching opportunities published anterior to the filter can be discovered by propogating the filter across the network as a search request.
+
+Beyond the example of house-sitting, such mechanisms of information relaying across a distributed computing network are common to many accords.  As such they are built into the core of Concordance.
+
+
+
+
+
+# Pedestrianization
+
+As a bipedal ape, I want to be able to walk inside and between settlements, be they villages, towns, or cities.  Unfortunately, motorists have taken over, and in many places it can be difficult or impossible to walk.  While a switch to electric vehicles could certainly do much to improve air quality and reduce noise, there remains a convincing argument for increasing the share of space dedicated to pedestrians.  Fewer vehicles mean a reduced risk of accidents, encouraging walking, which is also good exercise.  People are more likely to gather and spend time in areas with less vehicles, fostering social interactions and community engagement.  Prohibiting vehicles completely provides a safe space for children to play.  Parking especially eats up a lot of space that could be better used for parks and plazas.  Given these arguments, I may choose to sign the **pedestrianization accord**.
+
+Taking matters a step further, I may elect to chose to live without a car, because cars are anti-social.  Increased car ownership leads to suburban sprawl, meaning that everything becomes farther apart, making life more difficult for those who don't own cars.
+
+those who can't afford a car
+those who can afford to buy a car, generally do
+the desire for mobilty has an externality
+public transport is for second-class citizens, where it exists at all
+in a world where no one owns a car, we would enjoy exceptional public transit
+the more people own cars, the farther apart everything becomes
+
+what is it to chose not to own a car, when you can afford to do so?
+but what is it when you chose not to eat meat every day, when you can afford to do so?
+
+
+**carfree accord**
+
+
+
+This accord is symbolic in nature.  SO HOW DOES REPUTATION WORK?  WHAT I AM AGREEING TO?  An accord without rules... is it an accord?
+Virtue signalling.
+Strength in numbers.
+Platform for activism.
+
+compare this to the house-sitting accord.  there is no mechanism, no information specific to the accord.  the accord is abstract or conceptual in nature.  but does this make sense?  there would be a forum, as there would be a forum for all accords.
+i could make a commitment to drive less, or to not drive at all.
+
+from this accord could spring a "carfree cities accord".  designing in such a way that people may live without a car at all.
+
+also, what are the underlying principals of the accord?  would be could be said for chosing not to terrorize each other with murder machines so that we can reach our destinations faster?  we prioritize safety and community over individual?  could this be "the common good accord"?  acting for the good of the community.
+
+
+compare this to a vegan accord, chosing to consume a little as possible or even no animal products.  why would you do this?  because of animal welfare?  
+
+
 
 # On freedom
 
-The **association accord** asserts free will, freedom of association, as well as a pledge to embody virtue.
+The **association accord** asserts free will and freedom of association, as well as a pledge to embody virtue.
+
+
+we enjoy freedom, as much as we offer it to each other
+
+openness, transparency.
+preservation of life, biodiversity
 
 My body is my own.
 
@@ -241,6 +308,8 @@ but there is a pilot's association, with a certificate or license
 
 
 
+the rules of any sport could be included in an accord
+
 
 
 
@@ -300,6 +369,16 @@ If I want to share my knowledge, then I may sign the **collective knowledge acco
 If I use the metric system of measurements in my daily life, as most of us already do, then I may sign the **metric accord**.  Indeed, there are many existing standards that can be incorporated into accords.  While some standards may only be of interest to people operating in certain parts of the economy, many would acknowledge the frustrations born from the incompatibilities between differing electrical outlets and charging cables.  Standardization makes life easier for everyone, recognizing this, I may sign the **standardization accord**, upon which all standards are based.  Hopefully, entirely new standards would spring up and gain adoption through the system.
 
 
+
+# Science
+
+Given the the desire to understand natural phenomena and the laws governing the universe, science follows a systematic approach known as the scientific method, which includes formulating hypotheses, conducting experiments, collecting data, and drawing conclusions.  Such findings should be reproducible by other researchers using the same methods.
+
+Scientific claims must be based on data that can be measured, tested, and verified.  Scientific hypotheses and theories must be testable and falsifiable. This means that there should be a way to design experiments or observations that could potentially prove them wrong.   
+
+Scientific research typically undergoes peer review, where other experts evaluate the work before it is published. This process helps ensure the quality and credibility of scientific findings.  Science is a self-correcting process. When new evidence contradicts existing theories, scientists are expected to revise their understanding.  Science strives for objectivity and minimizes bias in research. Scientists aim to separate personal beliefs from their work. 
+
+The **science accord** proposes the creation of a repository of scientific papers.
 
 
 
