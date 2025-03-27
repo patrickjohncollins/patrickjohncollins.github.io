@@ -56,15 +56,57 @@ In the case where a person has died, I must specify to the best of my knowledge 
 
 # Laying the cornerstone
 
-Before we can agree on anything, we must first agree to agree.  Hence the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization, are themselves stipulated in an accord.  This **association accord** serves as the basis for all others.  It is minimalist in the extreme, including only that which is strictly necessary for such a system to operate, weaves together many strands of left-leaning political philosophy, including [progressivism](https://en.wikipedia.org/wiki/Progressivism), [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice), [voluntary association](https://en.wikipedia.org/wiki/Voluntary_association), [communitarianism](https://en.wikipedia.org/wiki/Communitarianism), [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)), [free culture](https://en.wikipedia.org/wiki/Free-culture_movement), and [crypto-anarchy](https://en.wikipedia.org/wiki/Crypto-anarchy).  It lays the foundation for an architecture of accords, that seek to offer liberation, dignity, solidarity, cooperation, sustainability, and standardization, of which a set of examples are presented in this proposal.  Many more will surely flourish, beyond the limitations of the author's own imagination.
+Before we can agree on anything, we must first agree to agree.  Hence the aforementioned mechanisms of invitations, signatures, reputation, accord creation, trusted assistance, and memorialization, are themselves stipulated in an accord.  This **association accord** serves as the basis for all others.  It is minimalist in the extreme, including only that which is strictly necessary for such a system to operate, weaving together many strands of left-leaning ideology, including [progressivism](https://en.wikipedia.org/wiki/Progressivism), [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice), [voluntary association](https://en.wikipedia.org/wiki/Voluntary_association), [communitarianism](https://en.wikipedia.org/wiki/Communitarianism), [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)), [free culture](https://en.wikipedia.org/wiki/Free-culture_movement), and [crypto-anarchy](https://en.wikipedia.org/wiki/Crypto-anarchy).  It lays the foundation for an architecture of accords, that seek to offer liberation, dignity, solidarity, cooperation, sustainability, and standardization.  Several examples of accords are presented in this proposal; hopefully many more will flourish beyond the limitations of the author's own imagination.
+
+Over time, I may find that my degree of concordance increases, as I adopt more accords, learn to adhere to them better, and engage more with people through accords.  Indeed, at some point, it may become possible for me to fulfill my needs exclusively within the network.  
 
 # On states and religions
 
-At this point, it might initially appear to the reader that such a system grasps at statehood, however this is not the case.  This is not a political party, nor seeks to become one.  A state is widely understood to be an organization that exercises a monopoly of violence over a defined geographical territory.  Here, the basic pledge to embody virtue naturally precludes violence or any attempt to control others, furthermore there is no definition of territory.  One can be Irish, Malay, Brazilian, etc and also be Concordant.  Seen another way, it is said that people can be motivated by a carrot and a stick.  Governments brandish the stick in terms of fines, prison sentences, or worse punishments for misdeeds, but offer little to no incentive for good deeds, whereas in Concordance, there simply is no stick, only carrots.  The movement is not one of global domination, but global liberation.
+As the association accord makes no mention whatsoever of spiritual or supernatural matters, the faithful, be they Christian, Muslim, Hindu, etc, may enter accords that are compatible with their beliefs and values.  It is entirely possible that religious texts could be added as accords and signed by the faithful, if they so desire.
 
-In some ways, Concordance could be compared to a fraternal order or secret society, but lacks the symbolism, regalia, ranks, and other rituals.  Unlike a decentralized autonomous organization, there is no allocation and distribution of tokens that grant voting rights.  The movement is neither religious nor secular, as no mention is made of spiritual or supernatural matters whatsoever.  One can be Christian, Muslim, Hindu, etc and also be Concordant.  Note that individuals are free to sign or refuse to sign individual accords as per their beliefs and values.  Truly the concept is *sui generis*, in a class of its own.
+However, one could not create an accord containing the constitution of the United States, and expect that anyone who signs it automatically becomes a citizen!  States are exclusionistic organizations, open to new members only through a strict administrative procedure of immigration.  As such, there is no intersection between Concordance and the state.  Choosing to sign an accord does not erase one's nationality, ethnicity, language, culture.  Perhaps in the distant future, the primary apparatus of the state, the lawmakers, the judiciary, the military and police, and so on, would gradually wither, finding no purpose in a harmonious world fully at peace.  In the meantime, we still need the stick that the state brandishes, the physical protection, the punishments for misdeeds, the police stations and courthouses and prisons and so forth.  In Corcordance, the basic pledge to embody virtue naturally precludes violence or any attempt to control others, thus there simply is no stick, however there are a lot of carrots to encourage good behaviour.
+
+In some ways, Concordance could be compared to a fraternal order or secret society, but lacks the hierarchy, symbolism, regalia, and other rituals.  Unlike a decentralized autonomous organization, there is no allocation and distribution of tokens that grant voting rights.  Truly the concept is *sui generis*, in a class of its own.
+
+# On freedom
+
+while embodying virtue, do what I want, allow others to do what they want.
+cooperation, not conformity
+act in the common good
+
+what are the needs of the community?
+clean air to breath, clean water to drink, healthy food to eat, a safe place to sleep, clothes for protection from the elements.  there aren't really any more basic needs than this.  maybe there are levels of needs?  equipment, such as cooking utensils, sanitation, central heating
+otherwise, affordances, abilities, freedom - to be able to travel from place to place along a road and rail network
 
 
+solidarity/commons/cooperation/coordination/collective action/teamwork
+
+
+the basic pledge to embody virtue naturally precludes violence or any attempt to control others ... upon this foundation ... we can offer freedom to each other
+
+Freedom of thought, aka, i pledge to think for myself, to follow my intuition
+Freedom of action, aka, to do what i want to do, and not do what i don't
+Freedom of speech, aka, to say what I want, and also chose not to speak
+Freedom of movement, aka, to go whever I want
+
+
+for my benefit, and for the benefit of others
+solidarity, or the common good
+
+
+
+Our vast world exhibits a wonderful variety of climates, landscapes, ecoregions, and human cultures.  There is no more enriching experience than to leave the comfort of the familiar and go forth and explore the unknown.  In so doing, we develop courage and opening our minds to new possibilities.  I want to be free to take my body anywhere in the World, and I want the same freedom for everyone.  
+
+The world is vast and wonderful, there is so much to be experienced.  Travel is enriching.  We develop courage through the act of exploration, being confronted with varied climates, landscapes, ecoregions, and human cultures.
+
+
+Since the age of exploration, steamships, jet aircraft, it has never been easier to travel.
+Yet at the same time, the restrictions on travel are increasing, border controls are being tightened.
+Natural fear of cultural encroachment.
+Adverse effects of mass tourism.
+
+
+without restriction, and afford the same freedom to others, then I could sign the **freedom of movement accord**, based on the bodily integrity accord.  By signing this accord, I join a community of globe-trotting cosmopolitans, who strive to reverse the trend of increasingly strict border and immigration controls.
 
 
 
@@ -153,9 +195,6 @@ encourages individuals to develop their own beliefs, opinions, and values rather
 
 Think for yourself, do not obey blindly, question authority, servent leadership
 
-
-
-If I want to be able to travel anywhere in the World without restriction, and afford the same freedom to others, then I could sign the **freedom of movement accord**, based on the bodily integrity accord.  By signing this accord, I join a community of globe-trotting cosmopolitans, who strive to reverse the trend of increasingly strict border and immigration controls.
 
 
 
@@ -372,11 +411,10 @@ If I use the metric system of measurements in my daily life, as most of us alrea
 
 # Science
 
-Given the the desire to understand natural phenomena and the laws governing the universe, science follows a systematic approach known as the scientific method, which includes formulating hypotheses, conducting experiments, collecting data, and drawing conclusions.  Such findings should be reproducible by other researchers using the same methods.
+Scientific knowledge builds upon previous findings and is subject to revision as new evidence emerges
 
-Scientific claims must be based on data that can be measured, tested, and verified.  Scientific hypotheses and theories must be testable and falsifiable. This means that there should be a way to design experiments or observations that could potentially prove them wrong.   
+Science seeks to progressively increase our understanding of natural phenomena and the laws governing the universe, following a systematic approach known as the scientific method.  Building upon previous findings, scientists formulate hypotheses, conduct experiments, collect data, and draw conclusions, while striving for objectivity and minimizing bias.  Findings should be reproducible by other researchers using the same methods.  Findings should be falsifiable, such that there should be a way to design experiments or observations that could potentially prove them wrong.  Findings should be reviewed by peers, that is evaluated by other experts before publication.  All science is based on theories that may be contradicted by new evidence.
 
-Scientific research typically undergoes peer review, where other experts evaluate the work before it is published. This process helps ensure the quality and credibility of scientific findings.  Science is a self-correcting process. When new evidence contradicts existing theories, scientists are expected to revise their understanding.  Science strives for objectivity and minimizes bias in research. Scientists aim to separate personal beliefs from their work. 
 
 The **science accord** proposes the creation of a repository of scientific papers.
 
