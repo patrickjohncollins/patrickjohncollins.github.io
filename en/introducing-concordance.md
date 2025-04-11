@@ -68,6 +68,60 @@ However, one could not create an accord containing the constitution of the Unite
 
 In some ways, Concordance could be compared to a fraternal order or secret society, but lacks the hierarchy, symbolism, regalia, and other rituals.  Unlike a decentralized autonomous organization, there is no allocation and distribution of tokens that grant voting rights.  Truly the concept is *sui generis*, in a class of its own.
 
+# A tale of two friends
+
+Two friends meet for a coffee.  Having long since signed the association accord, they each bring along their binders of accords.  Says one friend to the other: "Here's a new accord that I signed recently, it's a house-sitting accord."  "Oh, how practical!  I have a cat, and when I travel I usually ask my neighbour to feed it and clean the litter, but as I have been traveling more frequently of late, I feel that I am making an imposition.  Personally I wouldn't mind to have someone else stay using my absence and look after my cat."  They pull out a blank sheet and copy the accord, which they sign and place in their binder.  "I can't help but wonder, but what's in it for the sitter?"  "Well, who knows, perhaps they simply want to visit the city, there could be many reasons.  I'm sure this is a question you would ask a potential candidate during the interview."  "Hmmm.  But how would someone know when I need a sitter?"  "Quite simple," the first friend replies, "you let me know the dates you're absent, and I'll tell the person who invited me the next time we meet for coffee.  I've also invited two other people, so at some point I'll tell them too.  In this manner, your request will propogate up and down the tree of adoption, eventually reaching everyone.  Furthermore, I made a new acquaintance recently, and it just so happens that they are also a member, although they were invited by someone completely different.  I'll let them know as well, and so your request would propogate along that branch faster, thus reducing the time to reach everyone.  Hopefully someone out there will send you an application via the post."  "Ah, I see," says the other, "and so if someone tells you about a request that you've already heard it from another, then you don't bother to propogate it again."  "Exactly!"  "Still though, it must be quite the bother to have to copy these requests each time you meet for a coffee."  The first friend sighs, withdrawing from his suitcase another binder, opens it and begins to turn the pages, each filled with house-sitting requests.  "Yes, quite the bother indeed.  And look here, the requests on this page are in the past, so I can discard that one.  If only we had a computing network that could do the work for us!"
+
+# Community computing
+
+Clearly, a system such as Concordance is simply infeasible using paper and the post office.  Furthermore, the preceding tale elided over the fact that the writing in the binders would be scrambled gibberish, only readable by the holder of the secret key, thus protecting the contents from prying eyes.  When making a copy from the unscrambled text, the copy would itself be rescrambled, based on a different key, producing a different ciphertext.  A network of computers, able to perform such tasks in milliseconds, is a fundamental requirement.
+
+The question then is, how and where to store the information?  While a centralized database would certainly be the simplest option, this introduces many drawbacks, not least of which is that someone would have to pay for the hosting and administration, which would then require charging membership fees, requesting donations, or introducing paid advertising.  It would be far better for partipants to collectively operate the computing infrastructure in a peer-to-peer (p2p) manner, avoiding a single point of failure, and affording resistance to censorship.  Such a peer-to-peer computing network would be established through the **community computing accord**.
+
+It would be preferable to host the network on dedicated computing devices, having no screen, keyboard, or mouse, simply needing power and a network connection, which can then essentially be left undisturbed in a corner of one's home.  Theoretically, my mobile device (phone, tablet, laptop) could suffice, however these devices need to conserve power as they run on batteries, and also experience periods of broken or limited network connectivity.  The long-term goal would be to develop through a subsequent accord a fully open source hardware computing design, as well as the manufacturing capacity to produce such ready-to-use devices, and distribute them to all members.  In the short-term existing off-the-shelf components can be used; one good candidate is the widely available and greatly appreciated hobbyist [Raspberry PI](https://www.raspberrypi.com/) board.  About the size of a credit card, the Raspberry PI offers a relatively cheap platform, with the 8GB model 5 costing $80 (in USD circa 2025).  Storage capacity can be added in the form of a 1TB NVMe SSD drive costing approximately $50, connecting to the PI via an extension M.2 HAT+ board for $10.  These components should be placed within a case equipped with a silent fan, with the addition of a power cable the total would come to less than $200.  Apart from this cost, no other financial contribution is required in order to participate in the network.  
+
+While this home server device should be functional without intervention for several years, as computing is a continuously evolving field, it may prove advantageous to upgrade the device periodically.  As an example, it is already possible to add to the base Raspberry PI board an additional AI HAT+ board for $70, offering neural network acceleration.  Artificial intelligence has many potential applications, within the network it could be employed to better filter search results through learning a person's behaviour.  Indeed, corporations are employing AI to study and learn our individual behaviour, would it not be better to have this capability under our own control?  In another example of extensibility, home servers could potentially be equipped with antennas and establish wireless mesh networks with other home servers, thus bypassing third-party Internet service providers, or extending connectivity into locations where no service exists, creating a form of communal cellular data network.
+
+ok... so that's the hardware.  now on to the software.
+
+first application is replicated storage, a vault for my files.
+
+i don't have to own and operate a home server, so long as someone else is willing to give me space on theirs.  although, we are supposed to reciprocate, not freeload.
+
+
+
+
+Each node offers processing power, memory, and storage to the network.    
+
+The previous narrative illustrates how information can traverse a network lacking a central authority.  In a network of computers, it would not be necessary for each participating computer to store the complete set of all the house-sitting opportunities in the world.  Instead, an opportunity is published to one, which then relay to its peers, whom in turn relay to their peers, and so on.  If a peer is offline, computers would temporarily store messages, periodically retrying delivery.
+
+A person searching for house-sitting opportunities in a particular area, of a particular duration, within a particular date range, etc, could create a filter.  This filter would then begin to record new matching opportunities as they pass, and also raise notifications if so desired.  Any active matching opportunities published anterior to the filter can be discovered by propogating the filter across the network as a search request.
+
+Beyond the example of house-sitting, such mechanisms of information relaying across a distributed computing network are common to many accords.  As such they are built into the core of Concordance.
+
+
+
+
+
+The nodes of the network collectively form a distributed computing grid.  Data is replicated across multiple nodes, such that if a node malfunctions, or is destroyed or stolen, a new node may be added, automatically recovering all data.  The grid is designed to offer scalability, ensuring the system remains perfectly responsive while membership grows exponentially.
+
+The concept of distributed ledgers has been popularized by cryptocurrencies such as Bitcoin and Etherium.  Concordance also employs a distributed ledger.  However, Concordance is a socio-economic system, not a financial system, nor a cryptocurrency.  Concordance does not track debt, because debt is not love.  In cryptocurrency systems, participants are incentivized to provide computing power to the network in exchange for periodic winnings in said cryptocurrency.  In Concordance, participants receive no financial reward; they provide minimal computing power for the simple reason that they must in order to participate.  My node is mine, it is the primary storage location of my own data, hosting the accords that I have signed, and responding to my search requests. 
+
+Because the definition of the system software is hosted within the grid, it is not possible to simply download the installation media from a particular website.  Only an existing node can produce installation media for a new node.  This can be acheived by connecting a USB pendrive into the existing node, waiting for the cloning process to complete, and then plugging it into the new node, which will then start the installation.  This action would not be necessary if the node was to arrive fully assembled.
+
+
+Why can't the whole thing be hosted on my phone?  Technical and political reasons.
+
+Concordance is thus fully autonomous and self-sovereign, relying on it's own hardware and software, independent of any other network or system.  The conditions of this arrangement are stipulated in the **community computing accord**, itself based on the **association accord**.
+
+# Software definition
+
+While the majority of people have neither the time nor the inclination to bother with the matter of software engineering, some mention of the matter must be made as part of this proposal.  Concordance is based on free and open source software.  Those with the ability and inclination may modify the software.  The software may be consulted and modified from within the network.  
+
+While the matter of software is only of interest to software engineers, some mention must be made of t
+
+
+
 # On freedom
 
 while embodying virtue, do what I want, allow others to do what they want.
@@ -112,19 +166,6 @@ without restriction, and afford the same freedom to others, then I could sign th
 
 
 
-# A tale of two friends
-
-Two friends meet for a coffee.  Having long since signed the association accord, they each bring along their binders of accords.  Says one friend to the other: "Here's a new accord that I signed recently, it's a house-sitting accord."  "Oh, how practical!  I have a cat, and when I travel I usually ask my neighbour to feed it and clean the litter, but as I have been traveling more frequently of late, I feel that I am making an imposition.  Personally I wouldn't mind to have someone else stay using my absence and look after my cat."  They pull out a blank sheet and copy the accord, which they sign and place in their binder.  "I can't help but wonder, but what's in it for the sitter?"  "Well, who knows, perhaps they simply want to visit the city, there could be many reasons.  I'm sure this is a question you would ask a potential candidate during the interview."  "Hmmm.  But how would someone know when I need a sitter?"  "Quite simple," the first friend replies, "you let me know the dates you're absent, and I'll tell the person who invited me the next time we meet for coffee.  I've also invited two other people, so at some point I'll tell them too.  In this manner, your request will propogate up and down the tree of adoption, eventually reaching everyone.  Furthermore, I made a new acquaintance recently, and it just so happens that they are also a member, although they were invited by someone completely different.  I'll let them know as well, and so your request would propogate along that branch faster, thus reducing the time to reach everyone.  Hopefully someone out there will send you an application via the post."  "Ah, I see," says the other, "and so if someone tells you about a request that you've already heard it from another, then you don't bother to propogate it again."  "Exactly!"  "Still though, it must be quite the bother to have to copy these requests each time you meet for a coffee."  The first friend sighs, withdrawing from his suitcase another binder, opens it and begins to turn the pages, each filled with house-sitting requests.  "Yes, quite the bother indeed.  And look here, the requests on this page are in the past, so I can discard that one.  If only we had a computing network that could do the work for us!"
-
-If only, indeed.  What's more, the above narrative elided over the fact that the writing in the binders would be scrambled gibberish, only readable by the owner who knows the secret key, protecting the contents from prying eyes.  When making a copy from the unscrambled text, the copy would itself be rescrambled, based on a different key, producing a different ciphertext.  Clearly, such a system is only feasible with computers, able to perform such tasks in milliseconds.  Computing network open so many possibilities for human organization and interaction.
-
-# Distributed computing
-
-The previous narrative illustrates how information can traverse a network lacking a central authority.  In a network of computers, it would not be necessary for each participating computer to store the complete set of all the house-sitting opportunities in the world.  Instead, an opportunity is published to one, which then relay to its peers, whom in turn relay to their peers, and so on.  If a peer is offline, computers would temporarily store messages, periodically retrying delivery.
-
-A person searching for house-sitting opportunities in a particular area, of a particular duration, within a particular date range, etc, could create a filter on their computer.  The filter would then begin to record new matching opportunities as they pass, and also raise notifications if so desired.  Any active matching opportunities published anterior to the filter can be discovered by propogating the filter across the network as a search request.
-
-Beyond the example of house-sitting, such mechanisms of information relaying across a distributed computing network are common to many accords.  As such they are built into the core of Concordance.
 
 
 
@@ -236,40 +277,6 @@ The Right to Refuse to Kill
 Many other forms of freedom could be enshrined in accords, such as freedom of speech, freedom of religion, freedom of assembly, freedom of nudity, and freedom of sexuality.  Accords can promote the rights of women, children, indigenous peoples, homosexuals, and other marginalized communities.  We can achieve total liberation in society by first reaching accord, and then working together.
 
 
-
-# Community computing grid
-
-The concept of Concordance could not work using paper and the post office, it is only feasible due to the advent of personal computing and global connectivity.  The question then is, how and where to store the information?  While a centralized database would certainly be the simplest option, this introduces many drawbacks, not least of which is that someone would have to pay for the hosting and administration, which would then require charging membership fees, requesting donations, or introducing paid advertising.
-
-It would be far better for partipants to collectively operate the computing infrastructure.  Thus, each new participants acquires a computer, known as a node, which needs to be powered, connected to other nodes, generally via the Internet, and essentially left undisturbed, most likely in a corner of their own home.
-
-Without wanting to dive too much into the technical details, the widely available and greatly appreciated hobbyist Raspberry PI board, about the size of a credit card, offers a relatively cheap platform, with the 8GB model 5 costing $80 (in USD circa 2025).  Storage can be added via a M.2 HAT+ board for $10, allowing the connection of a 1TB NVMe SSD drive, for approximately $50.  These components should be placed within a case equipped with a silent fan, including a power cable, the total would come to less than $200.  
-
-Note that the Raspberry PI is not full open source hardware, as it integrates the proprietary postage stamp-sized BCM2712 System-on-Chip (SoC) manufactured by Broadcom, which in turn integrates the Cortex-A76 Central Processing Unit (CPU) manufactured by ARM Holdings. 
-
-
-A bit of assembly is required, hopefully over time some enterprising spirits will take it upon themselves to automate the assembly, providing a ready-to-use end product.
-
-Each node offers processing power, memory, and storage to the network.  Note that the device is headless, having no screen, keyboard or mouse is attached.  The device should be functional without intervention for many years.  The purchase cost, as well as the negligable energy draw are basically the only required financial contributions in order to participate in the network.
-
-It may prove advantageous to upgrade the device to a newer model periodically.  Computing is a continuously evolving field.  As an example, it is already possible to add to the base Raspberry PI board an additional AI HAT+ board for $70, offering neural network acceleration.  Artificial intelligence has many potential applications, within the network it could be employed to better filter search results through learning a person's behaviour.  Indeed, corporations are employing AI to study and learn our individual behaviour, would it not be better to have this capability under our own control?  In another example of extensibility, nodes could potentially be equipped with antennas and establish wireless mesh networks with other nodes, thus bypassing third-party Internet service providers, or extending connectivity into locations where no service exists, creating a form of communal cellular data network.
-
-The nodes of the network collectively form a distributed computing grid.  Data is replicated across multiple nodes, such that if a node malfunctions, or is destroyed or stolen, a new node may be added, automatically recovering all data.  The grid is designed to offer scalability, ensuring the system remains perfectly responsive while membership grows exponentially.  When compared to centralized systems that are more easily censored or spied upon, the grid promotes freedom of speech and privacy.  Furthermore, while attackers may temporarily succeed in compromising a single node, it would be far more challenging to compromise the entire network.
-
-The concept of distributed ledgers has been popularized by cryptocurrencies such as Bitcoin and Etherium.  Concordance also employs a distributed ledger.  However, Concordance is a socio-economic system, not a financial system, nor a cryptocurrency.  Concordance does not track debt, because debt is not love.  In cryptocurrency systems, participants are incentivized to provide computing power to the network in exchange for periodic winnings in said cryptocurrency.  In Concordance, participants receive no financial reward; they provide minimal computing power for the simple reason that they must in order to participate.  My node is mine, it is the primary storage location of my own data, hosting the accords that I have signed, and responding to my search requests. 
-
-Because the definition of the system software is hosted within the grid, it is not possible to simply download the installation media from a particular website.  Only an existing node can produce installation media for a new node.  This can be acheived by connecting a USB pendrive into the existing node, waiting for the cloning process to complete, and then plugging it into the new node, which will then start the installation.  This action would not be necessary if the node was to arrive fully assembled.
-
-
-Why can't the whole thing be hosted on my phone?  Technical and political reasons.
-
-Concordance is thus fully autonomous and self-sovereign, relying on it's own hardware and software, independent of any other network or system.  The conditions of this arrangement are stipulated in the **community computing accord**, itself based on the **association accord**.
-
-# Software definition
-
-While the majority of people have neither the time nor the inclination to bother with the matter of software engineering, some mention of the matter must be made as part of this proposal.  Concordance is based on free and open source software.  Those with the ability and inclination may modify the software.  The software may be consulted and modified from within the network.  
-
-While the matter of software is only of interest to software engineers, some mention must be made of t
 
 
 # Communication accord
