@@ -1,5 +1,5 @@
 ---
-title: What makes a great software development manager?
+title: Great software development management
 ---
 
 Over the past 20 years of developing enterprise software, I have worked with some managers who were alright, some who were poor, and a few who were downright awful, yet not one who I would class as "great".  
