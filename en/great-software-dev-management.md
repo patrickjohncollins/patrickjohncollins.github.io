@@ -6,15 +6,40 @@ Over the past 20 years of developing enterprise software, I have worked with som
 
 I want to be a great manager.  So I got me to thinking, what makes a manager great?
 
+## General Character
+
+* Exhibits high intelligence, high emotional maturity, and high social skills.
+* Loves developing software that offers a competitive advantage and operational efficiency to the organization.
+
+
+## Funding & Viability
+
+* Establishes and maintains positive relationships with stakeholders and enablers.
+* Proactively communicates the project vision, roadmap, milestones, progress, and organizational benefits.
+* Justifies the continuity of the project.
+* Disburses project budget on salaries, consultations, workstations, tools, hosting, events.
+
+## Task Pipeline
+
+* Promotes short turn-around times from idea to implementation to delivery.
+* Balances competing demands.
+* Limits backlog length.
+* Breaks up large tasks.
+* Ensures tasks are clearly specified.
+* Ensures tasks include test plans for both success and failure, as well as expected transaction volumes.
+* Distributes a constant supply of prioritized tasks to team members.
+* Continuously delivers new functionality to end-users.
+* Seeks feedback from end-users.
+
 ## Technical Skills
-* Is an intelligent and diligent developer.
-Masters the relevant programming languages, libraries, frameworks, tools, platforms, hosting environments.  
+
+* Masters the relevant programming languages, libraries, frameworks, tools, platforms, hosting environments.  
 * Understands the high-level system architecture, right down to the low-level design of a single API or UI component.
 * Understands that software development is complex, that there are always multiple solutions to any problem, each with their own advantages and disadvantages, and that any time saved making quick and poorly thought-out decisions will be paid for many times over.
 * Can evaluate the veracity of claims made my team members.
 
 ## Leadership Skills
-* Exhibits high emotional maturity and high social skills.
+
 * Communicates clearly and effectively.
 * Expresses enthusiasm, positivity, humor, kindness, compassion.
 * Shares their love for software development with the team.
@@ -26,16 +51,10 @@ Masters the relevant programming languages, libraries, frameworks, tools, platfo
 * Converses with each team member daily, listening actively, and take steps to eliminate pain-points.
 * Encourages team members to assist each other and collectively bear responsability for the system.
 * Rotates responsability, such that team members gain experience on all parts of the system.
-* Encourages willingness to admit mistakes and discourages placing blame.
+* Admits mistakes and discourages placing blame.
 * Identifies and mediates conflicts between team members.
 
-* Sets and communicates vision, objectives, and progress within the team and to stakeholders.
-* Establishes and maintain positive relationships with stakeholders, in a very diplomatic manner.
-* Balances competing demands from different stakeholders.
-* Sets limits on how many tasks may be added to the backlog.
-* Ensures that tasks are granular in scope, clearly specified, include test plans for both success and failure, include expected transaction volumes.
-* Ensures a constant supply of prioritized work items are distributed to team members.
-* Seeks to continuously deliver new functionality to end-users, encourage tight feedback loops with end-users, promote short turn-around times from idea to implementation to delivery.
+
 
 * Intervenes when production incidents occur, assisting to swiftly resolve the incident, performing root-cause analysis, identifying adjustments to procedures to minimize the possibility of similar incidents occuring.
 * Establishes sensible quality procedures, including peer code reviews, pair programming, automated testing, static code analysis, continuous integration, feature toggles, as well as architectural and design guidelines.
@@ -48,4 +67,3 @@ Masters the relevant programming languages, libraries, frameworks, tools, platfo
 * Provides reliable testing environments, where developers can test functional evolutions using real production data.
 * Mentors junior team members, providing tasks that are within their ability, while also challenging them to grow, pushing them ever so slightly outside their zone of comfort.
 * Encourages team members to maintain their technical knowledge up to date by continuously learning new technologies.
-* Manages the budget to spent on salaries, consultations, workstations, tools, hosting.
