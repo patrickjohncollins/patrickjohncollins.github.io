@@ -2,14 +2,18 @@
 title: What makes a great software development manager?
 ---
 
-# Technical Skills
+Over the past 20 years of developing enterprise software, I have worked with some managers who were alright, some who were poor, and a few who were downright awful, yet not one who I would class as "great".  
+
+I want to be a great manager.  So I got me to thinking, what makes a manager great?
+
+## Technical Skills
 * Is an intelligent and diligent developer.
 Masters the relevant programming languages, libraries, frameworks, tools, platforms, hosting environments.  
 * Understands the high-level system architecture, right down to the low-level design of a single API or UI component.
 * Understands that software development is complex, that there are always multiple solutions to any problem, each with their own advantages and disadvantages, and that any time saved making quick and poorly thought-out decisions will be paid for many times over.
 * Can evaluate the veracity of claims made my team members.
 
-# Leadership Skills
+## Leadership Skills
 * Exhibits high emotional maturity and high social skills.
 * Communicates clearly and effectively.
 * Expresses enthusiasm, positivity, humor, kindness, compassion.
