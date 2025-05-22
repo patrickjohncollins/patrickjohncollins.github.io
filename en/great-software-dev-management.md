@@ -27,7 +27,7 @@ As a software developer with two decades of experience, I am driven to become th
 * Cares about the health and wellbeing of team members.
 * Fosters a team spirit, recognizing that team building requires continuous effort.
 * Converses with each team member daily, listening actively, and takes steps to eliminate pain-points.
-* Encourages team members to assist each other and collectively bear responsability for the system.
+* Encourages team members to assist each other and collectively bear responsibility for the system.
 * Identifies and mediates conflicts between team members.
 
 ## Staffing Skills
@@ -45,7 +45,7 @@ As a software developer with two decades of experience, I am driven to become th
 * Ensures tasks are clearly specified.
 * Ensures tasks include test plans for both success and failure, as well as expected transaction volumes.
 * Distributes a constant supply of prioritized tasks to team members.
-* Rotates responsability, such that team members gain experience on all parts of the system.
+* Rotates responsibility, such that team members gain experience on all parts of the system.
 * Continuously delivers new functionality to end-users.
 * Seeks feedback from end-users.
 * Disburses project budget on salaries, consultations, workstations, tools, hosting, events.
@@ -54,7 +54,7 @@ As a software developer with two decades of experience, I am driven to become th
 
 * Masters the relevant programming languages, libraries, frameworks, tools, platforms, hosting environments, databases, and data stores.  
 * Understands the high-level system architecture, right down to the low-level design of a single API or UI component.
-* Evaluates the veracity of claims made my team members.
+* Evaluates the veracity of claims made by team members.
 * Carefully considers the advantages and disadvantages of each possible solution to any problem.
 * Provides a reliable virtualized zero-install development environment.
 * Encourages continuous learning and knowledge-sharing of new technologies within the team.
