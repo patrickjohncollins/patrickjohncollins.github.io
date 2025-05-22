@@ -26,13 +26,14 @@ As a software developer with two decades of experience, I am driven to become th
 * Offers team members appreciation, respect, trust, and demonstrates that their contribution makes a difference.
 * Cares about the health and wellbeing of team members.
 * Fosters a team spirit, recognizing that team building requires continuous effort.
-* Converses with each team member daily, listening actively, and take steps to eliminate pain-points.
+* Converses with each team member daily, listening actively, and takes steps to eliminate pain-points.
 * Encourages team members to assist each other and collectively bear responsability for the system.
 * Identifies and mediates conflicts between team members.
 
 ## Staffing Skills
 
 * Conducts hands-on technical interviews, exploring the code base and backlog with candidates, attempting to solve a practical problem in real time.
+** _Would you hire a chef without asking them to make an omlette?  Of course not.  A candidate may talk well, but it's only when they're cracking eggs and heating a skillet that you really get a good idea if they know their stuff.  Take a look at a task together, talk about potential solutions, write a little code.  It doesn't have to be production-ready at the end of the interview, it doesn't even have to compile, the important thing to test is the candidate's problem-solving ability._
 * Assists with the onboarding of new developers, providing introductions to team members and stakeholders, providing explanations of general business processes, providing demonstrations of the software system from an end-user perspective, providing walk-throughs of software source code, providing rights and permissions to systems.
 * Mentors junior team members, providing tasks that are within their ability, while also challenging them to grow, pushing them ever so slightly outside their zone of comfort.
 
