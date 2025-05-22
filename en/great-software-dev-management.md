@@ -2,7 +2,7 @@
 title: Great software development management
 ---
 
-As a software developer with two decades of experience, I am driven to become the kind of manager I have always aspired to work with - someone who not only understands the technical intricacies of the field but also possesses the essential skills to inspire, guide, and elevate their team.  In this article I list these essential skills, in approximate order of priority.
+As a software developer with two decades of experience, I am driven to become the kind of manager I have always aspired to work with - someone who not only understands the technical intricacies of the field but also possesses the essential skills to inspire, guide, and elevate their team.  The combination is a rare one.  This article serves to document those essential skills, in approximate order of priority.
 
 ## General Character
 
@@ -33,7 +33,6 @@ As a software developer with two decades of experience, I am driven to become th
 ## Staffing Skills
 
 * Conducts hands-on technical interviews, exploring the code base and backlog with candidates, attempting to solve a practical problem in real time.
-** _Would you hire a chef without asking them to make an omlette?  Of course not.  A candidate may talk well, but it's only when they're cracking eggs and heating a skillet that you really get a good idea if they know their stuff.  Take a look at a task together, talk about potential solutions, write a little code.  It doesn't have to be production-ready at the end of the interview, it doesn't even have to compile, the important thing to test is the candidate's problem-solving ability._
 * Assists with the onboarding of new developers, providing introductions to team members and stakeholders, providing explanations of general business processes, providing demonstrations of the software system from an end-user perspective, providing walk-throughs of software source code, providing rights and permissions to systems.
 * Mentors junior team members, providing tasks that are within their ability, while also challenging them to grow, pushing them ever so slightly outside their zone of comfort.
 
