@@ -1,0 +1,11 @@
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "P. J. Collins"
+plugins:
+  - jekyll-feed
+title: "P. J. Collins"
+url: "https://patrickjohncollins.github.io"

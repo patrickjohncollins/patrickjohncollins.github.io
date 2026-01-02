@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'ET Bembo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('ET Bembo'), local('et-bembo-roman-old-style-figures'), url(et-bembo-roman-old-style-figures.ttf) format('truetype');
+}
+
+body {
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40em;
+    font-family: "ET Bembo", Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff
+}
+
+header, footer {
+    text-align: center;
+}
+
+header {
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+article {
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+p {
+  text-indent: 0em;
+  margin: 0;
+  margin-top: 1em;
+  line-height: 150%;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    text-align: center;
+    font-family: "ET Bembo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.1;
+    color: inherit
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
